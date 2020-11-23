@@ -1,0 +1,52 @@
+
+ 
+ Access approved.
+ 
+  
+    Cc:	Meyn, Jim; Ratner, Michael; Hayslett, Rod
+  
+ Kevin,
+ 
+ Please grant Mike Ratner curve access.  Mike works for Rod Hayslett.  He is evaluating Enron Transportation Services business/asset development initiatives.  He will not share the pricing information with others either inside or outside the company but will share the results of his analyses with ETS senior mgt.  Please let me know if you have other concerns that need to be addressed.
+ 
+ Eric Gadd
+ 
+    
+  
+ Eric, I can send the model with curve fetch functionality to Mike Ratner.  To clarify the curve request process, you or your assistant will need to send a request (email, phone, in-person) to Kevin Presto (VP of Power Trading) outlining the reasoning for the curve access.  Upon approval from Kevin, you or your assistant will then need to send in an eRequest for curve access which goes through the system to Lloyd Will, who will verify Kevin's approval, and set up Mike's security access in the system.  Please let me know if you have any questions.  Thanks
+ 
+ - Jim
+ 
+  << File: spread option model nc.xls >> 
+ 
+  
+     
+ Jim,
+ 
+ Mike Ratner is the person inside ETS to have access to the forward curves.  Please provide him with a spread option model that includes the curve fetch function.
+ 
+ Thanks,
+ 
+ Eric Gadd
+ 
+    
+  
+ Mike Ratner.
+ 
+  
+     
+ Rod,
+ 
+ Jim Meyn is Bernie Aucoin's successor.  He's provided the attached spread option model for us to use but will not release forward price curves without authorization from Kevin Presto, who runs East Power Trading.  I think the best way to address ENA's concerns will be to limit the number of people in ETS that have access to the curves.  From my perspective, somebody in your organization would be the most rationale choice.  Any suggestions?
+ 
+    
+  
+ Here is the model we were reviewing this afternoon, minus the curve fetch function.
+ 
+ - Jim
+ 
+  << File: EES-Simple Cycle.xls >> 
+ 
+ 
+ 
+ 

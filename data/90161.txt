@@ -1,0 +1,47 @@
+
+ 
+ Yes we need PRB 8400 and PRB 8800 curves.   My agreement with EGM was coal curves in exchange for power curves.
+ 
+ Heather - If I don't get the PRB coal curves by the end of this week, I will have to remove access to our power curves.
+ 
+  
+     
+ Kevin, 
+ 
+ As requested, we are including the Nymex coal information, but in regards to adding other coal curves we have run up against a road block.  Please let me know if you are still interested in adding the PRB coal prices.  In total the coal desk has 62 curves, please also let me know if there are any other coal curves you are interested in.
+ 
+ Thank You 
+ Rika 
+ 
+  
+     
+ 
+ I thought we already have access.
+  
+    Cc:	Mcgowan, Kevin; Prejean, Frank
+  
+ I can only give you the COA-FUT EQUIV curve per Kevin McGowan, V.P. Coal Trading.  I believe he wants to see the power curves before we exchange any more information.  Please check with him for access to these curves.
+ 
+ Thanks,
+ Matt
+  
+     
+ Do you have that same information for the two PRB coals?
+ 
+ Is the NYMEX Coal curve you send me each day, a basis to anything.  We are comparing what you sent me to what is in the database, and the curve is slightly off in the coming months.
+ 
+ Jason
+ 
+  
+     
+ COA-FUT EQUIV is the curve code.
+ 
+  
+     
+ Matt,
+ 
+ Do you have a Coal Curve for Today?  Also, do you know the Curve Code for the curve that you send me.  They need that in order to automate this process, so that you don't have to e-mail me any more.
+ 
+ Thanks
+ 
+ Jason

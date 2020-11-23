@@ -1,0 +1,35 @@
+
+ 
+ Pete,
+ 
+ Hi how are you?
+ Can you remove me from the list?
+ thanks,
+ Monika Causholli
+ 
+ 
+    Cc: Meyers, Bert; Williams III, Bill; Dean, Craig; Linder, Eric;
+ Solberg, Geir; Symes, Kate; Harasin, Leaf; Causholli, Monika; Guzman,
+
+  
+ 
+ 
+ 
+ Start  Variances detected in Energy Import/Export schedule. 
+ 
+     LOG MESSAGES:
+ 
+ PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2001101809.txt
+ 
+ Error retrieving HourAhead price data - process continuing...
+ ---- Energy Import/Export Schedule ----
+ $$$ Variance found in table tblINTCHG_IMPEXP.
+      Details: (Hour: 9 / Preferred:   0.00 / Final:   0.00)
+   TRANS_TYPE: FINAL
+   SC_ID: ECTRT
+   MKT_TYPE: 2
+   TRANS_DATE: 10/18/01
+   TIE_POINT: PVERDE_5_DEVERS
+   INTERCHG_ID: EPMI_CISO_SRP
+   ENGY_TYPE: FIRM
+ 

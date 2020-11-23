@@ -1,0 +1,69 @@
+
+ 
+ ---------------------- Forwarded by Darron C Giron/HOU/ECT on 07/24/2000 
+ 10:13 AM ---------------------------
+ 
+ 
+
+
+
+
+
+   
+ 
+ 
+ ----- Original Message -----
+
+
+
+
+
+   
+ 
+ >
+ >
+ 
+
+ Received: from imo-r05.mx.aol.com ([152.163.225.5]) by icsi.net ; Sat, 22 Jul 
+ 2000 16:21:47 -0600
+
+ a.e0.773b18c (8479); Sat, 22 Jul 2000 17:34:04 -0400 (EDT)
+
+ 
+
+
+    X-Rcpt- X-DPOP: DPOP Version 2.5g
+ X-Mozilla-Status2: 00000000
+ 
+ 
+ 
+
+ Received: from  rly-ye02.mx.aol.com (rly-ye02.mail.aol.com [172.18.151.199]) 
+ by air-ye01.mx.aol.com (v75_b1.4) with ESMTP; Sat, 22 Jul 2000 09:17:38 -0400
+ Received: from  mail.flex.net (mail.flex.net [207.18.130.250]) by 
+ rly-ye02.mx.aol.com (v75.18) with ESMTP; Sat, 22 Jul 2000 09:17:03 -0400
+ Received: from bt2ta [207.18.136.96] by mail.flex.net  (SMTPD32-6.00) id 
+ AE4D4C6E0100; Sat, 22 Jul 2000 08:14:53 -0500
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   boundary="----=_NextPart_000_0001_01BFF3B5.ABD29CC0"
+ X-Priority: 3 (Normal)
+ X-MSMail-Priority: Normal
+  Importance: Normal
+ X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+ 
+ 
+ 
+  - JobApp.jpg

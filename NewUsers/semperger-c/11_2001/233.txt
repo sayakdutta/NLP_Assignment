@@ -1,0 +1,34 @@
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Semperger, Cara\Sent Items
+X-Origin: SEMPERGER-C
+X-FileName: cara semperger 6-26-02.PST
+
+
+
+ 
+
+Please log on to this web site
+http://eapps.enron.com/login.asp
+
+Thanks,
+Vish
+x 53209
+
+
+ 
+Cc:	Robinson, Donald
+
+His attempts to get path confirmation he gets this error
+
+
+
+ACCESS VIOLATION AT ADDRESS 005096E9 IN MODULE "PATH CONFIRM.EXE" READ OF ADDRESS 00000000.
+
+
+He needs access asap.
+
+Thanks,
+
+Cara

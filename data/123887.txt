@@ -1,0 +1,48 @@
+
+     Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ Thanks for the offer, I have a Dr's appt.  Maybe later this week.
+ 
+ Mid C is R9, but WSCC-N is R8.  A 'B' indicates a basis curve which WSCC-N is not.
+ 
+ Have you talked to Bruce from Chase re: these files?
+ 
+ Stacey
+ 
+  
+     
+ 
+ I thought Mid C was R9 and WSCC-N was B8?
+ Thank you for your help.
+ Evidently they are looking at removing BPA deal, and we wanted to understand the changes in VAR because of it.
+ 
+ Attached is the file you are trying to reconcile, which I've already reconciled.  Reconciled is New file.1,  Old file is EnronVarcurveshift II
+ 
+ Care to grab lunch?
+ 
+ Frank
+ 
+  << File: EnronVaRCurveShift II.xls >> 
+  << File: New file.1.xls >> 
+ 
+  
+     
+ R8
+ 
+ Yes, I can get BPA volumes.  What is it for?
+ 
+ Stacey
+ 
+  
+     
+ What is the curve code for WSCC-N
+ 
+ Also, do you have the breakdown for BPA volumes by peak and non-peak and reference date?
+ 
+ 
+ Thanks
+ Frank

@@ -1,0 +1,61 @@
+
+
+sorry to keep bothering you.  It looks like Souad's VaR continues to go down, but her net positions 5 contracts and her VaR is over $300K.  Can you verify that it is her Aruba book that is causing all of the VaR.  She only has positions at about 5 locations and they should all be mapped to the same omicron curve and either NG or Chi. Gate.  I would think that there would not be that much difference between NG and Chi Gate.  Any assistance is greatly appreciated.  Thanks.
+PL
+
+
+ 
+
+You know what he's talking about.....?  Talk to Burtaon Mcintyre if you don't.....
+It will get fixed
+Bharat
+
+ 
+
+
+ Bharat ,
+ I've done the mapping of omicron but you need to contact book administrators to do the sec-prim. mapping as I don't have permission to do that.
+
+ Thanks.
+
+ Nilay
+
+
+ 
+
+Hi Nilay,
+Did you gets these taken care off?
+
+The traders VaR is still not coming in correctly.  Let me know ASAP..........
+
+Thanks
+
+Bharat
+
+ 
+Cc:	Copeland, James L.; McIntyre, Burton
+
+Hi Nilay,
+The curves below have not been mapped.  It's causing a problem with a traders VaR.
+
+
+EMERSON-US/IM: Map to NG and to OMICRON_5
+
+GDC-CHI./N/BORD: Map to NGI/CHI.GATE and OMICRON_11
+
+GDP-EMERSON: Map to NG and OMICRON_5
+
+IF-MONCHY: Map to NG and OMICRON_5
+
+IF-NGPL/OK-NW: Map to and OMICRON_11
+
+NGPL-IOWA-ILLIN:  Map to NG and OMICROM_11
+
+
+
+Let me know when it is done...............
+
+
+Thanks
+
+Bharat

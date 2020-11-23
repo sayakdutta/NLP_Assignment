@@ -1,0 +1,68 @@
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Dorland, Chris\Sent Items
+X-Origin: DORLAND-C
+X-FileName: chris dorland 6-26-02.PST
+
+Ian,
+ 
+When I said spread I didn't mean graph the basis as opposed to the fixed price (these graphs are essentially identical to the first ones you did) I want a graph of the relationship (spread) between the 2 points. i.e. if Nov-Mar Sumas was marked at 0.20 and Nov-Mar Aeco was marked at (0.45) the Nov-Mar Sumas Aeco spread would be 0.65. Sorry if I wasn't clear. Call me with any ?s.
+ 
+Chris
+3-1663
+ 
+Cc: 
+
+
+Chris,
+ 
+Here is the update using the spreads instead of the fixed price.  The worksheet is titled "Sumas Basis Graphs".
+ 
+Ian
+ 
+
+ 
+Getting closer. I want a graph of the spread not of the 2 fixed prices.
+ 
+Chris
+ 
+Cc: 
+Chris,
+ 
+Here is the updated information you wanted.  The charts can be found in the "Sumas Graphs" worksheet.
+ 
+
+Regards,
+Ian Cooke
+ 
+
+ 
+Ian,
+ 
+Thanx looks good. What I was really looking for was the relationship between Sumas and each of those points for the N-M and A-O strips.
+ 
+Can you put these graphs together for me.
+ 
+Nov-Mar
+Sumas vs. Aeco
+Sumas vs. Rockies
+Sumas vs. San Juan
+Sumas vs. Malin
+Sumas vs. Socal
+ 
+Apr-Oct
+Sumas vs. Aeco
+Sumas vs. Rockies
+Sumas vs. San Juan
+Sumas vs. Malin
+Sumas vs. Socal
+ 
+Chris 713-853-1663
+ 
+ 
+Cc: 
+Let me know if you require anything else.
+<<Spreads Data.xls>> 
+Ian
+(403) 974-6770

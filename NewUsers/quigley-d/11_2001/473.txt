@@ -1,0 +1,42 @@
+
+
+
+
+ 
+Cc:	Quigley, Dutch; Arnold, John
+Importance:	High
+
+Dutch - please double check the below information and comment on it.  
+
+
+According to Man, Man expected these positions to be xpitted per their conversations with Dutch and John on 10/31/2001.  They were not xpitted.  If these were supposed to be xpitted and we did not do it, please sign off on it so Jason and Errol can implement it early on Friday 11/2.  
+Please call me if there is any confusion so that we can put this issue to rest as early as possible.  
+
+Thanks, Sarah
+
+ 
+
+
+
+>  
+> > > > Cc:	Polk, Ira (NY Corp)
+> >
+> Dear Joe
+>
+> Further to our telecon today here is a list of the positions that were NOT
+> moved.....
+>
+>  Short 926 Q03 Futures
+>  Short 220 Z02 295 Calls
+>  Short 220 Z02 295 Puts
+>  Long 1600 Z02 300 Puts
+>  Short 100 Z02 330 Calls
+>  Short 100 Z02 330 Puts
+>  Long  30  Z02 370 Puts
+>  Short 225 Z02 395 Calls
+>  Short 225 Z02 395 Puts
+>  Short 30 Z02 500 Calls
+>  Short 30 Z02 600 Calls
+>
+> Regards,
+>  Kevin R Davis 

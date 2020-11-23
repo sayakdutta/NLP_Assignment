@@ -1,0 +1,38 @@
+
+
+Mason
+
+Did Rob make a price on the ANP. If not can we finalilze a price on this toll and give John Llodra a call.
+
+Harry
+
+
+ 
+
+Attached are the vol curves we are using.  Please look over them and let me know if you would like to change them.  
+
+Thanks,
+
+MRH
+
+ << File: Vol Curve Info.xls >> 
+
+ 
+
+Mason,
+
+Harry would like to see the individual gas vols, power vols, and correlations used in your calc. Thanks.
+
+Rob
+
+ 
+Cc:	Llodra, John; Herrera, Fernando
+
+Please review the attached update.  
+
+Thanks,
+
+MRH
+
+
+   << File: ANP summary 011022.xls >>   

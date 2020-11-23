@@ -1,0 +1,20 @@
+
+
+Bart,
+
+Yes, you should be able to pull the loads.  IMPORTANT NOTE:  there are several "scenario" runs of the model.  You should only use the "New Model" scenario which, I believe, is number 25.
+
+Mat
+
+ 
+Cc:	Gaskill, Chris
+
+thanks. i'll check with david w.
+
+chris: just keeping you in the loop... matt let me know that we should be able to pull those loads now.
+
+bart
+ 
+Cc:	Gaskill, Chris
+
+If you want, you can have Dave Woodstrom do the query for you since he should now have access with that ID.

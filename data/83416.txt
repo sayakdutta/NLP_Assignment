@@ -1,0 +1,29 @@
+
+ 
+ As I suggested several months ago you need to get access to TDS with a total position view.  I am well within my VAR.  If I need to be responsible 
+ for total gas floor VAR let me know.
+ 
+  
+     
+ Scott,
+ I know/hope you don't hate me and please don't hate me after this,  but we have to do better job estimating our position.  Again we are over our limits.  Lavo is putting pressure on me to do a better job managing/estimating risk on the desk.  "Stress" is high and your help is greatly appreciated. 
+ 
+ Unfortunately, rating agencies are looking at VAR daily.  They believe we have an excellent handle on our risk.  It is critical that we temporary stay our course.  
+ 
+ Thanks for everything. I look forward to working with you on the other side.
+ Frank
+  
+ 
+ 
+  
+    Cc:	Port, David
+  
+ 
+ 
+ East	-1100	
+ Texas	-800	
+ West	-100	
+ Central	-700	
+ Fin	2500	
+ East Power	1500	
+ Total	1300	

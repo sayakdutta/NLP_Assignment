@@ -1,0 +1,35 @@
+
+
+sounds good
+
+ 
+
+
+John,
+
+Here is the calculation of the 487,856.
+
+The taxable benefit from the option was 537,672 - 153,174 = 384,498.
+
+We then allocated a portion of the benefit to work days in Canada between
+the grant date of August 11, 1997 and the exercise date November 30, 2000.
+The ratio of Canadian days to total worked out to be 645/755.
+
+We then calculated the Canadian portion (645/755 * 384,498) which was
+328,478.
+Then converted it to Canadian dollars (1.4852 * 328,478) which equaled
+487,856.
+
+Hopefully this explanation answers your question.
+
+Clay Blakley
+PWC
+
+
+The information transmitted is intended only for the person or entity to
+which it is addressed and may contain confidential and/or privileged
+material.  Any review, retransmission, dissemination or other use of, or
+taking of any action in reliance upon, this information by persons or
+entities other than the intended recipient is prohibited.   If you received
+this in error, please contact the sender and delete the material from any
+computer.

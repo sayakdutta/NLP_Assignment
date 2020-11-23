@@ -1,0 +1,109 @@
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Richey, Cooper\Sent Items
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+no problems here.  everything is fine.  
+
+
+
+
+Cooper,
+ 
+Please check for this vulnerability amongst your folks and advise soonest...
+ 
+Regards,
+ 
+Todd
+ 
+
+
+
+Thanks Chris!
+ 
+Todd, please work with Cooper and advise me before end of business of your finds. Thanks!
+ 
+
+
+Cc: Bowen, Todd
+
+
+Well, if Cooper or his group over there have any personal/desktop instances, I don't look after them.
+ 
+
+Chris Wiebe 
+Staff, Data Technologies 
+Enron Canada Corp. 
+Phone: (403) 974-6929 
+Cell: (403) 650-7224 
+Pager: (403) 212-9989 
+
+
+
+
+Cc: Bowen, Todd
+
+
+Are there SQL Servers you do not look after?
+ 
+
+
+Cc: Bowen, Todd; Steiner, David; Ward, Bob; Ogg, Jim; Smith, Bruce
+
+
+The SQL Servers that I look after all have a password for the SA account.
+ 
+
+Chris Wiebe 
+Staff, Data Technologies 
+Enron Canada Corp. 
+Phone: (403) 974-6929 
+Cell: (403) 650-7224 
+Pager: (403) 212-9989 
+
+
+
+
+Cc: Bowen, Todd; Steiner, David; Ward, Bob; Ogg, Jim; Smith, Bruce
+Importance: High
+
+
+Please advise ASAP as to the status of the SQL at your respective locations.
+ 
+Thanks!
+ 
+
+ 
+Cc: 
+
+
+
+
+
+ 
+Jr., Mike; Smith, Bruce; Deleon, Roberto; Ogg, Jim 
+Importance: High 
+
+
+
+
+-------------------------- 
+Sent from my BlackBerry Wireless Handheld 
+
+ 
+
+
+
+
+A new denial of service worm program, - like "sadmind", "nimda", etc. - has been discovered by the staff of SecurityFocus. This new program attacks Microsoft SQL servers that do not have a password set on their administrator accounts (named "sa"). Strange as it may seem, I know from experience that we have had a number of SQL servers at Enron that would be vulnerable to this (i.e., they don't have passwords on their "sa" accounts).
+
+I am running a scan now on port 1433 only (where SQL server runs) to try to identify all vulnerable servers we may have. I will be providing this list to Eddie Ray and the EEL IT Security team for coordination of the remediation work.
+
+Details on the worm can be found at <http://www.securityfocus.com/> on the front page. 
+
+Mark Thibodeaux 
+Enron Corp. - IT Compliance 
+713-853-9373 
+713-826-4738 (cell) 

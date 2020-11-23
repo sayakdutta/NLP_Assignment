@@ -1,0 +1,34 @@
+
+
+Kim 
+
+Can you print these in color.
+
+
+
+
+12/15/2000 04:59 PM
+
+
+
+
+John,
+
+Just finished the continous trading case.   Please see
+the two attached files. Let me know if you want to add
+more scenarios.
+
+Happy holidays !
+
+Zimin
+
+
+---------------- Attachment ------------------
+
+Open-close trading:
+ 
+
+
+Close-close trading:
+
+ 

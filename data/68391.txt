@@ -1,0 +1,22 @@
+
+ 
+ please check again for me, I have inactivated FT-VNG-IDX
+ PL
+ 
+ 
+  
+     
+ Phillip - I have checked all of VNG books and all of them are "Inactive" with the exception of FT-VNG-IDX and FT-VNG-PMT-PRC (this one should be active).
+ 
+ ST
+ 
+  
+     
+ I have inactivated the following books on the website(all risk types) please verify they are inactive:
+ FT-VNG
+ FT-VNG-Storage
+ FT-VNG-Trans
+ Intra-VNG-Phy
+ 
+ There should only be one active book under VNG is FT-VNG-PMT-PRC(we will inactivate after value liquidates this month).  Please let me know if you have any questions.  Thanks.
+ PL

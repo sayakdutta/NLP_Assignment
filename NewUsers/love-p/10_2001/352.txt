@@ -1,0 +1,34 @@
+
+
+can you check with IT.  IT looks like Souad's VaR is still way too high.  Thanks.
+PL
+
+
+ 
+
+I don't think IT got to it on Friday.....
+I'll talk to them again today and get them to do it.
+Bharat
+
+ 
+Cc:	Gossett, Jeffrey C.
+
+Bharat,
+Can you send me another component VaR on Souad Mahmassani.  It looks like the fix we put in place did not work, her VaR is still over 400K.  Thanks for your help.
+PL
+
+
+ 
+
+Hey Phillip,
+I'm a little busy right now but, will be by later.  Hope the graphs below get you started?
+Bharat
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+
+
+
+
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 

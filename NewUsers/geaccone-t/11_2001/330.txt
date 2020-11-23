@@ -1,0 +1,15 @@
+
+
+I have revised it.  Steve, I hope you have time to look at all the other ones that were tuned in to make sure thy are right.
+
+ 
+
+ 
+
+
+Tracy/Stephen,
+The formula in the employee sensitive section for the total column is wrong.  The amount should be 46.3, not 19.3. The % should be 45% rather than 19%.  Our system is down and I cannot access the file to make this correction.  Just want to let you know.  Thank you.
+ 
+Cc:	Sommers, Jeffrey E.; Howes, Carol
+
+ << File: enron corp infomation request - Nov 2001.xls >> 

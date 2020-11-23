@@ -1,0 +1,37 @@
+
+     Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Semperger, Cara\Sent Items
+ X-Origin: SEMPERGER-C
+ X-FileName: cara semperger 6-26-02.PST
+ 
+ doubt that is necessary now
+ 
+  
+    Cc:	Crandall, Sean
+  Importance:	High
+ 
+ Cara:
+ 
+ BuildRoute report is ready for testing now.  Please see version 3.2.3.10 in enpower stage environment.  Two optional check boxes are created as requested: "exclude DART" and "include DART only".  Let me know if it works to your expectation.
+ 
+ Fran
+ 
+  
+     
+ Good morning!
+ BuildRoute Version 3.2.3.10 is ready for testing.  
+ I will try to help if you have any questions, but you will be better off calling Nikolay (713-345-7265) with any questions about this.  Please see Bill's email for all the details I know.
+ Thanks so much for your help.  Sorry I am not more so.
+ Laura
+ 713-345-4410
+ 
+  
+    Cc:	Kraltchev, Nikolay
+  
+ QA's:
+ 
+ 	BuildRoute has been modified to allow the exclusion of DART deals.  Since they are waiting on it, it is difficult to test and Nik has done quite a bit of testing anyway, we promoted it to Stage.  Please contact Fran Chang about testing.  If it goes OK and she wants to, we can put it in as a production break fix.
+ 
+ Regards,
+ Bill x53492

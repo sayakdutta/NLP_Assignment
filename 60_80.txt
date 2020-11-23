@@ -1,0 +1,12 @@
+Name		Score
+	
+delainey-d	63.17	
+kean-s		67.75
+kitchen-l	75.21
+lavorato-j	72.6
+lewis-a 	64.66
+nemec-g 	62.44
+pelingiere-d 62.7
+sager-e 	61.6
+sanders-r 	69
+tayler-m 	67

@@ -1,0 +1,21 @@
+
+
+
+Made changes to 1102017 and 1111318.  Deal no 1133558 is ki8lled so not sure what needs to be checked .
+ 
+
+Disregard last week's messages.  No changes were made.
+
+I have received some deals that are being questioned by the c/p however:
+1102017	c/p claims deal is for 8000 (rather than 5000) MMBTU for 10/31
+1111318	c/p claims price is $2.47 (rather than $2.475) for 10/25
+1133558	c/p claims price of $2.84 is incorrect
+
+Please advise what changes you would like for me to make for deal validation.
+
+Thanks
+
+
+ 
+
+Price changed from 2.475 - 2.47 per your request.

@@ -1,0 +1,38 @@
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Love, Phillip M.\Sent Items
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+thanks.
+PL
+
+
+ 
+Cc:	Love, Phillip M.; McMichael Jr., Ed; Keiser, Kam; Lim, Francis S.; Nommensen, Dave; Wei, Zhiyong
+
+The deals have been moved to ENA-FT-WT-SOCAL and retranslated successfully.
+
+Cecilia
+
+
+ 
+Cc:	Love, Phillip M.
+
+Cecilia,
+In addition to moving the deals detailed in my previous email, please move only financial deals with the same counterparties from NG-PR-OPT to ENA-WT-SOCAL.  I realize it's a big list, but how long will the entire process take?  If you have any questions, please let me know.  Thanks.
+
+DG
+
+ 
+Cc:	Love, Phillip M.
+
+Attached is a long list of counterparty names to move from NG-PRICE into ENA-WT-SOCAL.  Please move only financial deals only.  Please let me know when this is complete.  Thanks.
+
+DG
+
+
+
+
+ << File: PositiveMTMCounterparties.xls >> 

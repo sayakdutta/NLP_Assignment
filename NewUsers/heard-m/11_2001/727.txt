@@ -1,0 +1,63 @@
+
+
+Samantha:
+
+Will you either assign to take care of this?  I'm not sure what they need exactly.
+
+Thanks!
+
+Marie
+
+ 
+Cc:	Anderson, Diane; Bell, Rebecca
+
+Hey Marie, can you forward deemed isda for ltd?  Thanks.
+
+ 
+Cc:	Anderson, Diane; Bell, Rebecca; Heard, Marie
+
+Please confirm under the old deemed ISDAs.
+
+Paul
+
+ 
+Cc:	Anderson, Diane; Bell, Rebecca; Heard, Marie
+
+Hey Paul.  Left you a vm earlier today.  The bottom portion of this email indicates what I was referring to.  I already have the Deemed ISDA for the LP that was approved mid October.  What I need is your blessing for the LTD.  I will be preparing two confirmations for each deal...for a total of four deals.  We bought at a strike of 650 October and now we have turned around to sell the same deal at 610.  They are both November 2001 deals.  No premium as they are swaps.  
+
+Unfortunately, I will be working from home this afternoon so please either call me at 281-485-6520 or simply respond to this email.  FYI,  Marie Heard originally fowarded the Deemed ISDA's this past October.
+
+Thanks for your help.  
+
+ 
+
+
+
+ 
+
+Hi Diane:
+I just left you a voicemail about these deals. I have also inserted a comment on the actual deal ticket in the Tickets folder.
+The payout from this deal basically has to be broken down between two different entities.
+
+Thanks,
+Ali
+X. 31654
+
+ 
+Cc:	Tackett, Scott; Abramo, Caroline; Zivic, Robyn
+
+AIG, a hedge fund that we deal with, has done 2 weather trades: an original trade on 10/29/01 (W1597) and an offsetting one yesterday. 
+
+Both trades need to be rebooked to reflect the fact that AIG allocates all its trades between 2 entities: AIG Commodity Arbitrage Fund Ltd and AIG Commodity Arbitrage Fund LP. The split between the 2 counterparties is: 77% to Ltd and 23% to LP. 
+
+At the moment, the original trade as well as (I'm assuming) the offsetting one are booked only to LP. Please rebook the trades, changing both the tick size and the cap amount, to reflect the above allocations. By my calculation, they should be as follows:
+
+Entity				Tick Size			Cap
+AIG Commodity Arb. Fund. Ltd	$1540				$308,000
+AIG Commodity	Arb. Fund  LP	$460				$92,000
+
+Once the deals are rebooked, please also reconfirm them this way. The confirmations will need to include a complete deemed ISDA (you can contact Diane Anderson if you need a copy of the specific deemed ISDA we use for DKR). 
+
+Thanks a lot for this.
+Rgds,
+Russ

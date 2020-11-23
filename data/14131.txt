@@ -1,0 +1,13 @@
+
+ 
+ The 2 weeks is the amount of years of service,  or the amount of 10K increments in salary.  The 4 weeks is a premium on top of that amount.  
+ 
+  
+    Cc:	Cash, Michelle
+  Sensitivity:	Confidential
+ 
+ Cathy,
+ 
+ The voluntary separation calculator asks for a number for 2 weeks pay.  Should that be four weeks, or does the program take the 2 weeks and multiply it to arrive at the four weeks base pay number?  If the latter, I can see it creating some confusion.  If the calculation sheet needs to be set up that way, perhaps we should drop a note explaining.
+ 
+ --Lizzette

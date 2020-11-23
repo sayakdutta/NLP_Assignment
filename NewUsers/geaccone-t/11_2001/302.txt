@@ -1,0 +1,72 @@
+
+
+We are still trying to work through this.  I should get back to you shortly.
+
+ 
+Cc:	Daily, Pamela
+
+Please see Debra Thompson's note below regarding not setting up FAR orders for floor space billing. I also received a message from Billie Akhave stating EPSC will not be billing to FAR orders -- only company/cost centers.
+
+The last information I had was that all pipeline company employees' space should be billed to FAR orders. Has this changed?
+
+Thanks for your help.
+
+Ruthann Frausto
+Enron Transportation Services Co.
+Facilities Services Coordinator
+Location:  3AC-3279
+(713) 646-6538
+(713) 306-5032 cell
+(713) 646-6116 fax
+
+
+ 
+Cc:	McEllin, David
+
+Last I heard we were not doing this at this time.  Please read below....
+
+ 
+Cc:	McEllin, David
+
+Maria - Please speak with Dave if you haven't already.  It will not be necessary for you to set these FAR orders up at this time.  I left a message with Tracy Geaccone to communicate this to Ruthann Frausto.
+
+ 
+Importance:	High
+
+FYI
+
+ 
+Cc:	Frausto, Ruthann; Miller, Robert; McEllin, David; Burns, Donna; Navarro, Silvia; Daily, Pamela; Brasher, Barney
+Importance:	High
+
+Maria,  See the attached.  I believe you will set up the co. 0062 and 0085 FAR orders.
+
+Miriam, I believe you will set up the co. 1195 FAR orders but you need to check with Silvia first.  I think you will also set up the co. 0584 FAR orders but check with Barney first.
+
+Ruthann,
+Although there are people in the co. 0584 cost centers right now, they are in the process of being moved to other pipeline companies by 01/01/2002.  There will be no employees on co. 0584 after the first of the year.
+
+Thanks to all,
+Pat
+
+
+ 
+Cc:	Daily, Pamela
+Importance:	High
+
+We have been instructed to begin charging all floor space and related charges to FAR orders for all pipeline employees. I was advised that the FAR orders to be used should be xxxx20009999, which is "G&A Custom Variant - Asset Not Specific".
+
+I've looked up all xxxx20009999 FAR orders in SAP and determined which cost centers for Houston employees need to have this FAR order set up. Attached is a spreadsheet showing the FAR orders which need to be created.
+
+Please call me if you need any additional information, and let me know when the FAR orders are created.
+
+Thanks for your help.
+
+ << File: FAR Orders needed.xls >> 
+Ruthann Frausto
+Enron Transportation Services Co.
+Facilities Services Coordinator
+Location:  3AC-3279
+(713) 646-6538
+(713) 306-5032 cell
+(713) 646-6116 fax

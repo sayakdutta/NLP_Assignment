@@ -1,0 +1,90 @@
+
+
+Russ/George - has this new location been mapped to the same curves as the previous location - PGLC/NGPL?  From my standpoint, I think that is the only thing that needs to be done with the exception of changing/adding swaps on these deals.  Please let me know.  Thanks.
+PL
+
+
+ 
+Cc:	Kinsey, Lisa; Love, Phillip M.; Sweitzer, Tara
+
+We have moved november deals to the new location?? is that going to be a problem??  They were previously on PGLC/NGPL/909285 and they were moved to PGLC/NGPL/TTP.  These deals will need to be moved to the new trade zone of TTP.    Is there anything else we need  to do for Sitara?? and if so who do we need to contact?   THanks!!
+
+COra
+
+ 
+Cc:	Pendergrass, Cora; Kinsey, Lisa
+
+
+ It is important to note that no deals can be moved to this new location until this location is mapped in Sitara,(mid, notional, and gas daily curves)
+otherwise any deals booked there will error out in CPR.
+
+Thanks
+GG
+
+ 
+
+FYI
+
+ 
+
+Ok i am getting with Patrice.  We were thinking that it would be November 1 but I think Patrice wants this set up ASAP
+I will get back with you as quickly as I know.  Thanks!!!
+
+
+ 
+Importance:	High
+
+Cora, 
+	George Grant has set up the new Trade Zone, TTP, for Meter No. TTP, on PGLC.  He has told me there are 44 deals behind Meter No. 
+
+TTP with the Trade Zone of PGLC.  Please let me know when a good time to change the Trade Zone is.
+
+Thank you,
+Ryan Sheeren
+
+Enron Net Works
+Global Facilities
+
+(713)853-5817
+
+
+
+ 
+Importance:	High
+
+
+
+ 
+Cc:	Hilliard, Marlene
+Importance:	High
+
+Mr. Grant,
+
+	Cora Pendergrass is  asking for a Trade Zone in PGLC to be created.  She also would like me to change the Trade Zone on meter 
+
+TTP to this new Trade Zone.  She has told me she has already changed the deals behind the meter to match the new Trade Zone.  
+
+I will change the Trade Zone with your final approval.
+
+
+Trade Zone:	  PGLC TTP		Meter:	TTP		Pipecode:      PGLC
+
+
+Please let me know as soon as possible.
+
+
+
+
+ 
+Importance:	High
+
+
+Will you please take of this.
+ 
+Cc:	Kinsey, Lisa
+Importance:	High
+
+Effective November 1, 2001 we need to set up a new trade  zone for PGLC.  The new zone should be called PGLC TTP.  The meter number TTP should be mapped to this new trade zone.  It is currently under NGPL.  We have moved deals for November 1, 2001 to this new point on ENA, EMW and ENV.  If you have any questions, please let me know.  Also we are trying to get to a point to upload this file for next month so when this is updated can you let me know?  Thanks for your help!!
+
+Cora
+3-9138

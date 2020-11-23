@@ -1,0 +1,24 @@
+
+
+Ask Milnthorp
+
+ 
+
+I'm fine, just wondering about what "data from transactions in the relevant contracts listed on EOL EnronOnline will be fed to NGX in real-time" means from a practical standpoint and if we are going to have to build something to accomodate this....
+
+ 
+
+Are you guys okay with this.
+
+Lavo
+
+ 
+
+As part of the settlement of Enron Canada's lawsuit against NGX, they (NGX) are required to issue a press release.  The draft of the release is attached.  It is expected to be released at the end of the day on Monday, April 30 or Tuesday, May 1.
+
+Please send any comments to me at your earliest convenience.  If you have any questions, call me at ext. 3-9053.  Thanks.
+
+Eric
+
+
+ << File: Enron Data to NGX1.doc >> 

@@ -1,0 +1,44 @@
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Williams III, Bill\Sent Items
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Chip have you had a chance to work with Greg Ford on ADS? Any ideas on the new ADS phase II? 
+
+Thanks,
+Bill
+
+
+Cc: Gilbert, Scotty
+
+
+Is anyone working on this - or staying up to date on ADS?
+
+
+Cc: Rahman, Brian; Lassiter, Mark
+
+
+Market Participants:
+
+The following is the latest schedule for ADS phase II items.  We will be
+splitting the release into two parts.
+
+Release 1 -- OOS/OOM/RMR dispatch:
+Market Sim: 11/12 - 11/16
+Meeting to review dispatched calculated energy: 11/27
+Release to Market: 12/11
+
+Release 2 -- Other phase II items:
+No market sim proposed
+Release to Market: 1/16/02
+
+More details and clarifications regarding OOS/OOM and the remainder of ADS
+phase II will be forthcoming.
+
+Greg Ford
+California ISO
+Market Operations
+(916) 351-2344
+

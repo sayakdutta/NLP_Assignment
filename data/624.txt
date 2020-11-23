@@ -1,0 +1,68 @@
+
+ 
+ Jay,
+ 
+ Final request and I will leave you alone.  Need one more gas only id.
+ 
+ Phillip
+ 
+  
+     
+ Hi Phillip,
+ 
+ simtrader7 now has the access you requested.
+ 
+ thanks!
+  -jay
+ 
+  
+     
+ Jay,
+ 
+ My message was confusing.  I needed one more id that has access to all products.  It is for the use of someone on the West Desk.  I do not need an ID that can only trade the West region.  If possible, please modify simtrader7.
+ 
+ Thank you,
+ Phillip
+ 
+  
+     
+ Hi Phillip,
+ 
+ simtrader7 has access to all US gas (physical and financial) and all West power.  Gas access is not regionalized, so I can't give the account access to just West gas.  Let me know if this isn't what you want.
+ 
+ Thanks!
+  --jay
+ 
+  
+     
+ Jay,
+ 
+ Can you set up one more simulated account with access to all products for the west desk.
+ 
+ Thank you,
+ Phillip Allen
+ 
+  
+    Cc:	Allen, Phillip K.
+  
+ 
+ Hunter,
+ 
+ The simulation url is https://simweb0.eolsim.com
+ 
+ Your accounts are:
+ 	access to all:		simtrader1
+ 	access to us gas only:	simtrader3, simtrader4
+ 
+ Phillip's accounts are:
+ 	access to all:		simtrader2
+ 	access to us gas only:	simtrader5, simtrader6
+ 
+ In each case, the password is the same as the username.
+ 
+ Let me know if you have any questions.
+ 
+ Thanks!
+ 
+ --jay
+ 	

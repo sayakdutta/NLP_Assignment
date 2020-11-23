@@ -1,0 +1,128 @@
+
+
+---------------------- Forwarded by Mark - ECT Legal Taylor/HOU/ECT on 
+08/10/99 10:38 AM ---------------------------
+
+
+Mary Weatherstone on 08/06/99 03:58:19 PM
+
+
+
+
+
+
+
+Per my conversation with Trisha Hughes the following is the proper coding for 
+the Enron OnLine Project (EOL).
+
+Company: 460
+RC:  1491
+W.O.:  E14911
+
+Please use the rest of the proper coding all all other categories such as 
+detail class, etc.
+
+If you have any questions, please contact Trisha Hughes or myself.
+
+Thanks,
+Mary
+---------------------- Forwarded by Mary Weatherstone/HOU/ECT on 08/06/99 
+03:46 PM ---------------------------
+
+
+Jodi Dziadek
+08/02/99 03:02 PM
+
+
+---------------------- Forwarded by Jodi Dziadek/HOU/ECT on 08/02/99 03:02 PM 
+---------------------------
+
+
+Anthony B Dayao
+07/27/99 04:32 PM
+
+
+---------------------- Forwarded by Anthony B Dayao/HOU/ECT on 07/27/99 04:31 
+PM ---------------------------
+   
+	
+	
+		
+
+
+
+---------------------- Forwarded by Veronda Willis/HOU/ECT on 07/22/99 10:20 
+AM ---------------------------
+
+
+
+
+
+
+The original W.O. # assigned E14911 on Co. 460 is the correct work order to 
+use.   Please let me know if you have any questions.
+
+Veronda Willis
+853-7994
+
+
+
+
+David G Mally
+07/12/99 12:30 PM
+
+
+
+
+
+
+
+Please use your normal coding for account major, account sub, detail class.
+
+Please add OEXP in the cost catalog description:  OEXP covers all expenses 
+except for payroll including meals, travel, and hotel (for your expense 
+reports).
+
+This work order is being set up in the ATES payroll system.  It will be 
+available for this pay period.
+
+I hope this change has not inconvenienced anyone.
+
+Regards,
+
+Dave
+
+
+---------------------- Forwarded by David G Mally/HOU/ECT on 07/09/99 12:42 
+PM ---------------------------
+   
+	
+	
+		
+
+
+
+
+
+
+
+The following work order has been set-up to track expenses related to the 
+on-line project.  Travel expenses, other expenses, timesheets need to be 
+coded to the appropriate cost category within this work order.
+
+  Company # 460        
+  W.O. # E14911
+
+Regards,
+Dave
+
+
+
+
+
+
+
+
+
+
+

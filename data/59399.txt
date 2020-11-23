@@ -1,0 +1,70 @@
+
+     Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Keiser, Kam\Sent Items
+ X-Origin: KEISER-K
+ X-FileName: kam keiser 7-11-02.PST
+ 
+ 
+ Yes,  I didn't realize it mattered.  All caps.
+ 
+ Thanks
+  
+     
+ Kam,
+ 
+ Jeremy was asking me about those "Financial" regions...  Do you want to use uppercase instead of lowercase so that they are consistent with Global (All uppercase in Global)?
+ 
+ Let me know, thanks.
+ 
+ Cecilia
+ 
+ 
+  
+    Cc:	Lim, Francis S.
+  
+ One more thing - Financial (long/short name and org. region) is lowercase whereas all the other books are uppercase?
+ 
+ Thanks.
+ 
+  
+    Cc:	Lim, Francis S.
+  
+ Regarding issue (1) below:
+ 
+ The reason I do not see MP and MD in ermt/estermtp is that the counterparties are not in global
+ and my script to check joins with tagg_global_cp also.
+ 
+ Since these are physical books with deals flowing from Sitara->CPR, we should be ok.
+ 
+ Thanks.
+ 
+  
+    Cc:	Lim, Francis S.
+  
+ (1) What are the book names/codes for Canadian P/B/I?
+ 
+ (2) Don't see M P and M D for the physical (no hedge) books?
+ 
+ (3) For M C (Canadian GasDaily), for book, egs_cand_yn = 'N' (not 'Y'). 
+ 
+ Thanks.
+ 
+  
+    Cc:	Valdes, John
+  
+ All regions have been created and changed in estermtp database.
+ 
+ Cecilia
+ 
+ 
+  
+    Cc:	Valdes, John
+  
+ Can you please change the org regions for the attached books.  
+ 
+ Thanks
+ 
+ Kam
+ 
+  << File: Book Request Form  Financial final.xls >>  << File: Book Request Form Central final.xls >>  << File: Book Request Form East final.xls >>  << File: Book Request Form Texas final.xls >>  << File: Book Request Form West final.xls >> 

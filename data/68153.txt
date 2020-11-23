@@ -1,0 +1,29 @@
+
+ 
+ NXAVC is just like nymex, it settles as one price for the entire month.  I don't know what you mean look for pricing for 9/11-9/14.  NXAVC is a monthly index.  Please clarify.
+ PL
+ 
+ 
+  
+     
+ Phillip,
+ 
+ Agave had several days incorrect and has corrected them, however my counterpart informed me that they have not been able to confirm the pricing for days 9/11 - 9/14. Those four days were priced at $29.53. Is there anyway to find out if the crude guys can provide support for those day? I would think there may have been some special pricing provisions after the events of the 11th.
+ 
+ Thanks,
+ Genaro
+ 
+  
+     
+ see this spreadsheet, you will see that previous months match.  This spreadsheet comes straight from our crude guys.  If the counterparty continues to disagree, get documentation from them and we can take it to the crude guys.  Thanks.
+ PL
+ 
+ 
+  
+     
+ Philip,
+ 
+ The attached file contains settle prices for crude.  The NXAVC code price is in cell "D48" which I have highlighted in yellow.  There is also historical data in the file where you can verify prior months.  If you have any other questions please ask.
+ 
+ 
+  << File: NYMEXSTL.01.xls >> 

@@ -1,0 +1,21 @@
+
+ 
+ 
+ 
+  
+     
+ CONFIDENTIAL
+ 
+ If you are not the intended recipient of this document, any disclosure, copying, distribution or other use is prohibited and may be illegal.  Please notify sender immediately if you have received this document in error.
+ 
+ Thank you.
+ 
+ 
+ Content-Transfer-Encoding: binary
+ Received: from cnrlnts13.cnrl.com	([209.115.228.178])	by axl1tcp; Wed, 04 Jul 2001 08:46:52 -0600
+ Received: by CNRLNTS13 with Internet Mail Service (5.5.2650.21)	id <NZG5YZQ6>; Wed, 4 Jul 2001 08:44:20 -0600
+
+     Return-Receipt-    Content-Disposition: attachment;	filename="Stampede Drinking.doc"
+ Content-Description: Mac Word 3.0
+ 
+  - Stampede Drinking.doc 

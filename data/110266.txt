@@ -1,0 +1,64 @@
+
+ 
+ Ina,
+ 
+ Thanks for checking into it.  Coincidently, I noticed that there is a line on my phone called Portland #2 that noone uses.  If it's listed on the phone does that mean that it's necessarily there?  Maybe it was used at one time or another, but just got forgotten.  Anyway, it's not a big deal to wait until we get into the new building.
+ 
+ Thanks.
+ 
+ Mat
+ 
+ 
+     
+ 
+ This is what I am being told about the Portland/Houston direct line.
+ 
+ -Ina
+ 
+ 
+     
+ 
+ Ina,
+ 
+ It's getting even more complicated.  I forgot that the Portland office is also going through major renovation and system upgrades that would also effect the possibility of installing such a circuit.  At this time, because of the uncertainty of what items are being changed, moved or upgraded at each location and when these events would occur, makes the reliability of this circuit a major issue and should not be attempted until both locations have completed their locations' projects.
+ 
+ Darren
+ 
+ 
+     
+ 
+ Any luck yet on an answer?
+ 
+ -ina
+ 
+ 
+    Cc: Hill, Ben; Cummings, David A.
+  
+ 
+ Ina,
+ 
+ I would have to investigate further to determine if this can be done, however, at this time we are not accepting any new circuits for the Trading floors because of the pending moves to ECS.  Direct circuits using Enron facilities is difficult when equipment using the circuit is in ECS and the equipment establishing the circuit to Portland is in ECN.  There are potential reliability problems.
+ 
+ Let me do some checking. 
+ 
+ Regards,
+ Darren Adamik
+ Mgr.-Trading Technology
+ Enron Net Works, LLC
+ 713.853.4764 Office
+ 713.853.9828 FAX
+
+ 
+ 
+ Sent from my BlackBerry Wireless Handheld (www.BlackBerry.net)
+ 
+ 
+
+   
+ Darren,
+ 
+ What would the cost be to se up a direct line between Portland and The West Gas Desk?  Are there any switches available for this where there would not be a cost?
+ 
+ Let me know what my options are.
+ 
+ -Ina Rangel

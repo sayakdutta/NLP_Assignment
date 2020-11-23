@@ -1,0 +1,15 @@
+
+
+
+
+ 
+Importance:	High
+
+Bob--in reviewing the Merger Q & A dated Nov 9 in "Enron Updates", I think there has been a typo or a misunderstanding on whoever put together the "Answers" about how options will be converted.  
+
+The existing Answer as to how options will be converted is as follows:
+	"The number of options will be converted on the same ratio as outstanding shares are converted.  Your number of Enron options will be multiplied by 0.2685 to calculate the number of Dynegy options at close.  At the closing of the merger, the strike price on your Enron options will be divided (sic) by the merger ratio 0.2685 to determine the strike price of the new Dynegy options."
+
+I believe the strike price should be multiplied by the merger ratio [or at the very least stay the same].  If it is done the way the current "Answer" suggests, Enron option holders take a double hit---the shares they have options on are reduced by three quarters and the strike prices [which were already under water] get multiplied by four.  I would guess that application of the current "Answer"  totally eliminates all existing options, as a practical matter.
+
+I'm pretty sure I am right.  Have the Answer people made a typo or misunderstood how conversion is to take place, or is there a problem with the existing merger agreement that needs to be addressed and corrected?  Please advise.

@@ -1,0 +1,36 @@
+
+
+thanks, it worked
+
+ 
+Cc:	Parks, Joe
+
+Joe,
+It should be working now. Just click the button.
+
+Dave Wei
+
+ 
+
+Could you look into this - thanks.
+
+ 
+
+Jeremy, Joe Parks is still getting the error message stating he doesn't have access to download curves.  The file uses his NT login and password to go out into the system.  I'll attach the file so you can look at it.
+
+His login is: jparks
+pw:  x14TH$24th
+
+ << File: Basis Fetch2.xls >> 
+
+
+
+
+Please send me the user's name and userid.
+
+ 
+
+If I needed to get someone access to download curves, what security do I need to request?
+
+Dave
+

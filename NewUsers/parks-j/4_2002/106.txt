@@ -1,0 +1,23 @@
+
+
+things are well, slowly ramping it up and gegtting back into it
+
+ 
+
+For VAR 95 using a Delta gamma approach
+1.645 * position * price * daily vol = VAR 
+
+Remember daily vol is implied vol divided by sqrt of time or 16 in this case.
+
+How do you like your new digs?
+
+ 
+
+hey, how are you? can you send me an example of how you callculate var on contracts.
+
+for example: price is 3.10, 100 contracts, vol. 60%
+
+"SHOW ME THE MATH"
+
+JOE
+832-851-2821

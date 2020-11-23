@@ -1,0 +1,196 @@
+
+
+I am finally making it all the way through old e-mails.  I will try to call you and talk through all of this.  I am probably not as familiar as I should be on the procedures that exist.  --Sally 
+
+ 
+
+Sally,
+
+In the event that a manual payment needs to be sent, I need your approval to set up Jenny Latham, my lead in London, and Rebecca Millerchip, settlements lead for EGM for them to sign off.  As we are moving to replicate the EGM payment process in London for EIM, utilizing EGM resources, this should only be a temporary need because EIM's payment templates are not fully set up in SAP yet.
+
+Please let me know if you need any further information.
+
+Thanks,
+
+Kevin
+
+ 
+Cc:	Pake, Nathalie
+
+Kevin,
+
+We were going to Mike/Fernley for this since that was per policy.  If we're going to ask for exceptions then it makes sense for me to be set up for manual payments over $1 mil.  Nathalie had mentioned this issue to Becky while she was helping her, and Becky is obviously offering to help.  Let me know if you agree.  Thanks.  Jenny.
+
+ 
+Cc:	Pake, Nathalie
+
+Can you add me also Kevin?  Thanks Cindy
+
+ 
+Cc:	Pake, Nathalie; Horn, Cindy
+
+
+Kevin
+
+can you get Sally Beck/Rick Causey to approve the exception to company procedures allowing me to approve manual payments over $1mil for EIM as well as EGM please?
+
+Thanks
+Becky
+
+----- Forwarded by Rebecca Millerchip/LON/ECT on 08/10/2001 18:53 -----
+
+
+	Rebecca Millerchip 13/08/2001 10:57 	   
+
+----- Forwarded by Rebecca Millerchip/LON/ECT on 13/08/2001 10:59 -----
+
+
+	Brent A Price 31/01/2001 01:49 	   
+done - see below
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Brent A Price
+01/30/2001 07:48 PM
+
+approved - please process
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+
+01/30/2001 09:56 AM
+
+This is fine with me.
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+
+01/30/2001 02:21 AM
+
+
+Rick - Sorry to bother you with this but Treasury is requiring your approval.  London Operations currently has only one person (Cindy Horn) authorized to approve manual payments.  Obviously this can be a problem if Cindy is out of the office.  I would like to gain authorizaiton for Becky Millerchip in London, who manages the Coordination and Settlements groups and reports to Cindy, to approve manual payments.  Can you help us with this?
+
+Thanks, 
+
+Brent
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Rebecca Millerchip
+01/22/2001 12:35 PM
+
+Brent
+
+will you take care of getting Rick's approval?
+
+Thanks
+Becky
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+
+17/01/2001 19:05
+
+
+Brent
+
+It is my understanding that any delegation of manual payment approval that falls outside the levels set by Rick Causey need to be approved by Rick.  I realise that we do have limited numbers of staff in London with the required approval level but we need to be sure that we can accept deviations from the policy.
+
+Best regards
+
+Peter Russell
+Treasury Manager, London 
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Rebecca Millerchip
+17/01/2001 15:12
+
+
+Ann
+
+Please find attached Brent's authorisation for me to be a backup for Cindy on manual payments over ?1mil.
+
+Many thanks
+Becky
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Brent A Price
+17/01/2001 13:58
+
+
+Makes sense to me...please forward to appropriate person with my approval.
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Rebecca Millerchip
+01/15/2001 08:10 AM
+
+Brent
+
+following Rick Causey's e-mail re controls over manual payments, I have been asked to get you to approve a list of Accounting Directors in our area who will be required to sign off on all manual payments of more than USD1mil in value.
+
+Cindy Horn is the only Director in our group so naturally she should be the primary signatory.
+
+Since manual payments are only done in extreme circumstances, they are usually very last minute and need to be signed off immediately in order to not miss Treasury deadlines and incur unnecessary late payment charges.  I really feel that it would be in the interest of the company to have more than one authorised signatory for manual payments.
+
+Although I am Manager and not Director, how would you feel about me being a back up for Cindy if she is not around?
+
+Thanks
+Becky
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Ann Hicks
+14/12/2000 19:19
+
+
+Becky,
+
+FYI
+
+Ann
+
+
+
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+11/07/2000 09:18 AM
+
+
+As mentioned in my previous memo regarding Cash Control Standards, approval authorizations are critical to our cash control environment.  Corporate Accounts Payable is actively pursuing a "Workflow" system to route invoice images for approval and processing.  This workflow solution will not be implemented until early 2001.  In the interim, an approval process will be implemented by AP and Treasury to ensure invoices have proper approvals and correct general ledger coding.  Effective Monday, November 20 the following approval authorizations will be required for all invoices, payment requests and wire transfer requests that are $1,000,000 or greater:
+
+(A)  Those NOT approved by an underlying contract or RAC require two approvals:  a Managing Director approval of the payment, and an Accounting Director approval of the general ledger coding.  
+
+(B)  Those that ARE approved by an underlying contract or RAC require an Accounting Director approval of the payment  and general ledger coding.
+
+In both examples above, supporting documentation must be attached.  If not attached, then the payment will not be processed.
+
+To assist us with implementing this approval process, I'm requesting each of you to accumulate signatures of the Managing Directors and Accounting Directors in your business unit using the attached form.  Please forward this information to Larry Dallman (JFR568) by Friday, November 10th.
+
+This new process becomes effective Monday, November 20th.  It important to provide this information or payments greater than $1,000,000 will not be processed.
+
+ << File: Approval Authorization Form.xls >> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

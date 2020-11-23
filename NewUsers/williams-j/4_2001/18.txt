@@ -1,0 +1,42 @@
+
+
+
+
+
+fine, Jason.
+
+Please apply same to prod.
+
+ 
+
+done  - please test
+
+
+Assigned Assigned By: 
+
+             
+
+Please push the following file, from tradeportal in dev, to tradeportal in test and prod. (please call me so we can make sure it's ok in test, and we'll do prod straight away.
+
+file = default.asp
+
+thanks,
+
+ed
+
+
+Please check any requested tasks on completion and confirm with us that they have been carried out satisfactorily.
+
+Thank You
+
+EEL eBusiness Infrastructure Operations.
+
+
+
+
+
+
+
+
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>

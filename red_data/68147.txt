@@ -1,0 +1,49 @@
+
+ 
+ Daryll,
+ Try these instructions and let me know if this works.  Thanks.
+ PL
+ 
+ 
+  
+     
+ P Love:
+ Here are the instructions for adding the correct drivers for Weapon X.  Keep for your future reference.
+ You might want to forward to Chicago office - I have not done so.
+ 
+ Thanks
+ 
+ James Hungerford
+ 713.345.4117
+
+ 
+  
+     
+ 
+  James,
+    Here are the configuration requirements for WeaponX in our environment in Houston. -
+  
+    You need the following ODBC Drivers configured, You can access this by
+    Start->Run and typing in ODBCAD32
+    OR
+    Start->Settings->Control Panel->ODBC / (Windows 2000) Start->Settings->Control Panel->Admin Utils->ODBC
+ 
+    Make sure the following are in the screen that open, if not you can add them by clicking the add button and selecting ORACLE ODBC drivers. All the entries should be in LOWER case.
+ 
+   Data Source Name : EGSPROD   
+   Service Name/Server : ERMT
+ 
+   Data Source Name : EGSPROD32
+   Service Name/Server : ERMT
+ 
+   Data Source Name : CPR
+   Service Name/Server : CPR
+ 
+   Date Source Name : CPR_PROD
+   Service Name/Server : CPR
+ 
+     
+   If you have any additional questions, just me let know.
+ 
+    David Mayeux
+    31/32 Trader Support

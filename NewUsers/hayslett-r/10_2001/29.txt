@@ -1,0 +1,63 @@
+
+
+If we do this, we need to have both an internal group and an external group.
+
+ 
+
+Rod, Charlie if we are looking for someone internally to do a review process, Sarabeth possibly can provide this function.  Your thoughts?
+
+ 
+Cc:	Hawkins, Don
+
+Do you have a candidate?    I would argue that we are looking at a process review, so anyone who can do a process review could do this.
+
+ 
+Cc:	Hawkins, Don
+
+Rod,
+
+I agree with Kenneth Cessac's response.  We should evaluate our current process for collecting, validating and distributing measurement data and consider new ideas and alternatives to improve the process.  Assistance from a consulting firm that specializes in this area would probably be better than using Rutherford.
+
+Charlie      
+
+ 
+
+This question has been raised several times over the past 10+ years, should we combine GMS, Field Operations, and some of the Gas Control functions to create a single source for measurement data.  I do not feel that changing a reporting relationship would correct any problems.  
+
+I feel the time and effort can e better spent improving our current data collect process and data flow between SCADA and PGAS.  While this process is working I feel that it requires to much manual intervention and handling.  The IT department, Measurement Technology, Gas Control Hot Seat, and the Data Analysis are all involved in keeping the data flowing between SCADA and PGAS.  We should step back and re look and the current process and see what improvements can be made to better control and maintain this process.
+
+ A second area that should be looked at is the data validation process.  Currently Field Operations, Data Analysis, and GMS all  manually review measurement data.  With all of the computer and software technology available I feel that we could easily automate most of the current manual data validation.
+
+I have limited experience with the Rutherford company and what they could provide towards improving these items.  I feel that a company that specializes in SCADA and such as UTSI would be a better option.  
+
+
+ 
+Cc:	Hayslett, Rod
+
+Charlie, Ken, I would like to meet with you this afternoon if possible (2:00 pm) so you can bring me up to speed on PGAS and Sullivan's concern so we can respond to Rod by early next week.
+
+Thanks,
+
+Don
+
+ 
+Cc:	Hayslett, Rod
+
+I'm going to defer this to the experts.  Please convey your thoughts to Rod.
+
+ 
+
+Would you agree that something needs to be done?
+
+ 
+Cc:	Stern, Ellis; Lewis, Greg
+
+The PGAS reporting project recently completed requirements gathering meetings with data users in gas measurement technology, gas control, gms, gas accounting, and gas logistics.  We think, those discussions have pointed to a need to assess inefficiencies that appear to exist related to data integrity as data moves between systems and users that span the entire gas volume/quality collection, transformation and delivery process.  In other words there seem to be too many questions and reconcilliations that people have to address along the process as data changes hands and is used for different internal and external purposes.  There also appears to be a lack of a single point of responsibility in the organization for gas volume data from start to finish.
+The PGAS reporting project proposed to assess this at a high level and make some recommendations.  But as important as the issue appears to be, you might want to consider using Rutherford to help ETS do a more thorough job of this.
+This effort would extend outside FA&A.
+Please advise.
+
+ 
+Cc:	Stern, Ellis; Sullivan, Michael
+
+Mike, Ellis and I are in agreement that the need for the Rutherford Consulting group is complete.  Rutherford achieved what their goal was; to provide structure and format for the PGAS issues to be addressed in an efficient manner.  The procedures for listing new issues are in place and are being followed by the team.  The meetings are efficient in that only status updates and priorities are reviewed and discussed. There is now only one list for all issues that are being addressed or need to be addressed and they are prioritized.   The monthly meetings are now only needed twice a month.  What is the procedure for notifying Rutherford that their services are no longer needed on this project as they have completed what was asked of them?   cvb

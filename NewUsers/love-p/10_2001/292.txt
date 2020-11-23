@@ -1,0 +1,66 @@
+
+
+Can you map the following three curves to Omicron curves.  Nilay did his side and I need you to do the other side according to the IT guys.
+GDP-St.CLAIR		Omicron 14
+GDP-NGPL(IA-IL	Omicron 11
+GDP-MONCHY		Omicron 11
+
+Can you let me know when this is done so that I can get Souad's VaR rerun.  Thanks for your help.  You also need to let me know if you guys can go to lunch on me on Friday.
+PL
+
+
+ 
+
+GDP-ST.CLAIR and GDP-NGPL(IA-IL
+
+Thanks.
+PL
+
+ 
+
+Please give the curve codes properly  ( indicate blank and other characters distinctly). 
+ 
+I've done GDP-MONCHY
+
+ Nilay
+
+
+ 
+
+
+according to Bharat, he still does not have access to this screen.  Is there anyway you guys can do it today and he can continue trying to log in and do it for us in the future?  Thanks.
+PL
+
+
+ 
+
+
+ Phillip,
+
+ Bharat didn't have access to the intra-IF mapping screen . 
+ But we have given  him access  to Intra IF mapping screen.
+ Please check with Bharat. 
+  If you guys have any problem please let me know.
+ Thanks,
+
+ Nilay
+
+ 
+
+Bharat asked that I forward this information to you.  Could you please map the following curves to the appropriate omicrons.  Monchy and NGPL-IA-IL should be mapped to chicago - omicron #11 and St. Clair should be mapped to omicron #14.  Do I need to also send this information to Burton in the controls group?  Thanks for your help.
+PL
+
+ 
+
+Hey Phillip,
+These are the unmapped curves.  Please let me know what OMICRONS they should be mapped to and I'll have Nilay do it.  This is your problem.  Large hedge benefits are not being captured in her books.
+
+Bharat
+
+
+
+GDP-MONCHY	             890,193 	
+GDP-NGPL/(IA-IL	          2,315,334 	
+GDP-ST.CLAIR	            (379,744)	
+	
+	TOTAL			        2,825,783 

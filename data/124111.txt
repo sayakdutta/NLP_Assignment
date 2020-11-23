@@ -1,0 +1,46 @@
+
+ 
+ I agree with this request.		
+ 
+ Stacey
+ 
+  
+    Cc:	White, Stacey W.
+  
+ 
+ Please inactivate LT-EPGC-NA (book's related CPID )  and we will inactivate the book in RisktRAC.
+ 
+ Thank you.
+ 
+ J.P.
+ 
+  
+     
+ CPID is counterparty ID.  Each trading book is assigned a CPID so that a book can be associated with each deal entry.
+ 
+ NH
+ 
+  
+     
+ What is CPID?
+ 
+ 
+  
+     
+ J.P.:
+ 
+ When you say inactivate are you requesting that the book's related CPID be inactivated or are you requesting that the RisktRAC book be inactivated.  If you are referring to the RisktRAC, you can inactivate the book on the Website.  If you requesting the CPID inactivation that will please reply and  CC Stacey White to insure Supervisor agreement.
+ 
+ 
+ Regards
+ 
+ 
+ Nancy
+ 
+  
+     
+ Please inactivate LT-EPGC-NA.  
+ 
+ Thank you,
+ 
+ J.P.

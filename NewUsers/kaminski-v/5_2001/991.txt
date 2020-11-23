@@ -1,0 +1,120 @@
+
+
+
+
+ 
+
+    **********************************************
+    **      THIS IS A WARNING MESSAGE ONLY      **
+    **  YOU DO NOT NEED TO RESEND YOUR MESSAGE  **
+    **********************************************
+
+The original message was received at Wed, 30 May 2001 11:02:02 -0500 (CDT)
+from mailman.enron.com [192.168.189.66]
+
+   ----- The following addresses had transient non-fatal errors -----
+
+
+   ----- Transcript of session follows -----
+
+Warning: message still undelivered after 12 hours
+Will keep trying until message is 5 days old
+
+   ----- Original message follows -----
+
+
+Received: from mailman.enron.com (mailman.enron.com [192.168.189.66])
+	by postmaster.enron.com (8.10.1/8.10.1/external_corp-1.08) with ESMTP id f4UG22622540
+
+Received: from corp.enron.com ([192.168.110.110])
+	by mailman.enron.com (8.10.1/8.10.1/corp-1.06) with ESMTP id f4UG21L09189
+
+Received: from nahou-mscnx04p.corp.enron.com (unverified) by corp.enron.com
+
+ Wed, 30 May 2001 11:01:59 -0500
+Received: from nahou-msmbx03v.corp.enron.com ([192.168.110.41]) by nahou-mscnx04p.corp.enron.com with Microsoft SMTPSVC(5.0.2195.1600);
+	 Wed, 30 May 2001 11:01:47 -0500
+X-MimeOLE: Produced By Microsoft Exchange V6.0.4418.65
+content-class: urn:content-classes:message
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Thread-Topic: Fwd: A question regarding your paper
+Thread-Index: AcDo/+5Wlu0KVFTxEdWxCABQi+MJ2QAH8LMw
+
+X-OriginalArrivalTime: 30 May 2001 16:01:48.0022 (UTC) FILETIME=[D4D3D960:01C0E921]
+
+Susanne,
+
+Thanks a lot for the answer to my question.
+
+I shall work with the numbers at home tonight.=20
+
+Congratulations to you and your colleagues on
+a great paper and exciting work in the risk
+management area.
+
+Vince Kaminski
+
+>  
+
+> > > >=20
+>=20
+>=20
+
+> Received: from  rly-xd05.mx.aol.com (rly-xd05.mail.aol.com
+> [172.20.105.170]) by air-xd03.mail.aol.com (v77_r1.36) with ESMTP;
+> Wed, 30 May 2001 07:24:40 -0400
+> Received: from  sunrbg2.mathematik.tu-muenchen.de
+> (sunrbg2.mathematik.tu-muenchen.de [131.159.68.4]) by
+> rly-xd05.mx.aol.com (v77_r1.36) with ESMTP; Wed, 30 May 2001 07:24:32
+> -0400
+> Received: from sunstatistik4.mathematik.tu-muenchen.de
+> (sunstatistik4.mathematik.tu-muenchen.de [131.159.68.134])	by
+> sunrbg2.mathematik.tu-muenchen.de (8.9.1/8.9.1) with ESMTP id NAA12185
+
+> Received: from localhost (localhost [127.0.0.1])	by
+> sunstatistik4.mathematik.tu-muenchen.de (8.9.1/8.9.1) with SMTP id
+
+> (MEST)
+> Message-Id:
+
+> > > Reply-> > > > > Content-MD5: hhhySEYulRj80k19u1mmaQ=3D=3D
+
+>=20
+> Dear Mr. Kaminski,
+>=20
+> Thank you for your email concerning my paper on EVT and VaR.
+> I have thought about your question:
+>=20
+> If you take formula (2.8) and plug in the parameters (u=3D10, =
+N_u=3D56,
+> beta=3D11.120
+> chi=3D0.186, q=3D0.95, n=3D108) you get hat(x)=3D42.86 DM.
+> Now we only have to explain the minus:
+> If you look at figure 3, you see that we considered the absolute
+> negative
+> returns, i.e. we neglected the minus sign of these returns. but in the
+> DRC we
+> have to pay attention on the minus sign, since we consider returns,
+> not only
+> absolute returns. this is the reason for the minus in equation (3.10).
+>=20
+> I hope I could help you with this explanation.
+>=20
+> If you have further questions don't hesitate to ask me.
+>=20
+> Sincerely,
+>=20
+> Susanne Emmer
+>=20
+> 
+
+> Zentrum Mathematik             Tel: +49 89 289 28241
+> Technische Universitaet        Fax: +49 89 289 28464
+> D-80290 Muenchen
+> 
+>=20
+>=20

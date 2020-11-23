@@ -1,0 +1,33 @@
+
+ 
+ 	Raetta, are all our questions answered?  Thanks. Lynn
+ 
+  
+     
+ Gary, was wondering if you could let us know when these volumes will be corrected because of the rounding.  As I'm sure you know, we are starting to get more calls from our customers and we would like to reassure them that this problem will be corrected soon.
+ 
+ Thanks,
+ 
+ Raetta
+ 
+  
+    Cc:	Adams, Jean; Benningfield, Robert; Dykes, Tangie; Forbish, Sherry; Hibbard, Scott; Janzen, Randy; Linhart, Joe; McDaniel, Janet; Scurlock, Debra; Sturr, Kathy; Woodson, Harry
+  
+ Chris,
+ Gary Anderson has implemented a change request for reporting volumes to the customer. The requested change would have the volume statements round the same as the daily extract files.
+ There won't be adjustments made for the June volumes, instead, when the change goes in, the volume statements in June will reflect the rounded volume.
+ I don't know the exact time estimate for this change but it won't be in before the July close. You will be hearing more about this in the future.
+ Thanks to ya'll for being so patient with us.
+ Jeff
+ 
+ Gary,
+ I hope I have stated this correctly and if you have any comments they would be greatly appreciated.
+ 
+  
+    Cc:	Adams, Jean; Benningfield, Robert; Dykes, Tangie; Forbish, Sherry; Hibbard, Scott; Janzen, Randy; Linhart, Joe; McDaniel, Janet; Scurlock, Debra; Sturr, Kathy; Woodson, Harry
+  
+ Jeff,
+ 
+ Last month  after our Commodity close NNG has had customers calling with differences in the volumes we reported verses the volumes that Gas Measurement reported for the month of June 2001.  I think you are aware there  is a rounding issue with the volumes due to the decimals in the new PGAS system.  I don't know if this problem has been resolved or not but since July's close is quickly approaching I was wondering if you could give me the status on this problem and also if there will be adjustments made to the June volumes in PGAS to reflect the same volumes that we reported to our Customers? We appreciate all the efforts that you and Gas Measurement have made to make this transition period as smooth as possible,  thanks  for your assistance and I'm looking forward to hearing from you.
+ 
+ Chris Greaney 

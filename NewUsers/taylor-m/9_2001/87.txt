@@ -1,0 +1,31 @@
+
+
+Thanks for your note.  Just so you have the whole picture -- our analysis f=
+rom a US law perspective is that there is a tension between wanting the tra=
+nsactions on the system to be enforceable and wanting out of the mistake tr=
+ades.  The offline unwind is by far the best approach when the mistake is n=
+ot blatant since it assumes the binding nature of the original trade.  We h=
+ave been handling these by using a written termination rather than a revers=
+e trade.  This is universally the approach we have taken when our traders h=
+ave agreed to let a customer out of a trade the customer claims was done by=
+ mistake on their part.  This happens often enough that we have given the c=
+onfirm desk a termination agreement form to use as needed (Tana can get you=
+ a copy if you want it).  But when the counterparty refuses to let us out o=
+f a trade that is a mistake on our part, our only hope is that the mistake =
+is so blatant that we can claim mutual mistake.  Under US law when there is=
+ mutual mistake the contract is actually never formed.  In that case, the o=
+riginal trade is not enforceable and there is nothing to unwind.  One alter=
+native we have used is to simply remove the transaction from the customer's=
+ "completed transactions" section as if it had never happened.  As far as I=
+ know, we have only had to do this once or twice.
+
+ 
+
+Mark
+
+We do have mistakes from time to time, as you suspected.  In almost all cas=
+es, the respective traders agree to cancel these by entering into a back to=
+ back offline trade.  None has been of sufficiemt gravity to be brought to =
+my attention
+
+J

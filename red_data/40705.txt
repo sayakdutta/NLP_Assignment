@@ -1,0 +1,38 @@
+
+ 
+ Ok, but make sure the documentation of the email follows the invoice for the payment, otherwise we will have to go back to him to appriove the payment.   On the otherhand, there is no reason that a DASH can't be used for non-discretionary approvals as well, and if it doesn't have to go to RAC, then it doesn't.   
+ 
+  
+    Cc:	Neubauer, Dave; Fancler, Dan; Gilbert, Steve; Chandler, Bob; Cobb Jr., John; Gilbert, Steve; Waymire, Dave; Miller, Kent; Saunders, James; Perchal, Cheryl
+  
+ Rod,  for operational storage purchases we backed away from using a DASH to document signoff mainly because the purchase was determined to be non-discretionary (and cleared that with RAC).  Instead we got Stan's approval of the purchase by e-mail.  Given that the Cunningham purchase is budgeted (for 2002), the timing of beginning to enter the transactions, and the above, I would recommend requesting Stan's signoff by email.  OK?
+ 
+  
+    Cc:	Neubauer, Dave; Peters, Jerry; Fancler, Dan; Gilbert, Steve; Chandler, Bob; Cobb Jr., John; Gilbert, Steve; Waymire, Dave
+  
+ Do you have a document signed by Stan authorizing the amount of dollars you need to spend?
+ 
+  
+    Cc:	Neubauer, Dave; Peters, Jerry; Fancler, Dan; Gilbert, Steve; Chandler, Bob; Cobb Jr., John; Gilbert, Steve; Waymire, Dave
+  
+ Thanks for getting back to me on these.
+ 
+ Regarding the operational storage gas purchase, I did receive an e:mail back from Stan approving the November purchases.  We need to begin purchasing gas by the end of the week so please let me know what I need to do to refresh the dash that was completed a few months ago.
+ 
+ 
+ 
+  
+    Cc:	Neubauer, Dave; Peters, Jerry; Fancler, Dan; Gilbert, Steve; Chandler, Bob; Cobb Jr., John; Gilbert, Steve; Waymire, Dave
+  
+ 
+ 
+  
+    Cc:	Neubauer, Dave; Peters, Jerry; Fancler, Dan; Gilbert, Steve; Chandler, Bob; Cobb Jr., John
+  Importance:	High
+ 
+ kent, et al, 
+ quick feedback from rod:
+ 1. gas purchase - need to get approved thru stan    $'s required make it a Stan approval.    We will need a DASH to get his signature on.
+ 2. hedge of gas purchase - no issues; need to quickly develop hedge documentation     
+ 3. hedge of sba "spread" - we need to regroup to better clarify how the commodity component of the sba can be identified within the
+ sba contract, for hedge purposes

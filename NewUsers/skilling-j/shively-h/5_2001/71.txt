@@ -1,0 +1,63 @@
+
+
+
+Please make this change
+
+Thank You
+Hunter
+ 
+Cc:	Dronet, David; Lari, Bryan; Wile, David
+
+Hunter, it appears that the bid week cycle for making IT based implementations actually falls five days prior and five days post bid week. Hence we cannot push the gas message board change without Director (business side) or above approval.
+
+Thus on that note, please could forward this email to: David Wile (cc Bryan Lari, Colin Tonks, David Dronet) authorising this change so we can push the GMB asap. 
+
+Thanks
+Colin
+
+ 
+
+We are in the middle of our bid week cycle.  I cannot implement this without director approval.
+
+David Wile
+Data Technologies
+x33867
+cell:  281-960-6254
+
+ 
+
+David,
+would you please implement in ITRAPROD.
+
+thanks,
+
+rene
+
+ 
+
+This is complete.
+
+David Wile
+Data Technologies
+x33867
+cell:  281-960-6254
+
+ 
+
+
+Intranet Applications, FORUM MESSAGE BOARD, CR# 24
+Ref:  ENA-INTR, FRM, CR#24
+
+The database change has been PRE-APPROVED for implementation in ITRADEV.  No further approval is necessary.  
+ 
+The DBA, David Wile, will send an email notification when the change has been completed.  
+ 
+If you have any comments or questions, or need additional changes, please contact Rene A. Enriquez at x33385.
+ 
+Proposed Implementation  
+Business Overview:
+The client has requested that a field be added for containing a URL that is specific to a given comment.
+ 
+To view the DB Change DOCUMENT, click on the following link:
+http://hrweb.enron.com/crserver/dart/report/reportViewer.asp?id1=ENA-INTR&id2=FRM&id3=24&rptType=CR&rptName=RPT_CR_DOC
+ 

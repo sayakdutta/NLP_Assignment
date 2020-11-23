@@ -1,0 +1,50 @@
+
+
+Andy:  Can you look into this while Richard is out of the office.  
+
+ 
+
+We need some guidance on voicemail retention in Portland for both PGE and ENA.  This should be driven by legal -- not technology.  ENA currently uses PGE's voicemail system in Portland.  I'm not sure if there can be a different set of rules for each.  We need clear direction on what legal thinks the policy should be for each entity.  Please advise.
+
+ 
+Cc:	Dietrich, Dan
+
+Tim,
+
+	Not to question Kathy, but should we not have a lawyer (Richard Sanders for example) sign off on this?
+
+If so, please give me direction today.
+
+Dave
+
+ 
+
+
+Dave:  I would leave PGE retention policy as it is.  Once you get your own system in the next few months, we will use the 30 day retention policy to govern voicemail boxes.  Thanks!
+
+Kathy
+
+
+
+ 
+
+
+As you know, ENA PDX is using the PGE Meridian Centrex Phones and Mer Mail voice mail system.  As a result of this email, I have contacted PGE Telephony services to evaluate our ability to comply.  
+
+We, ENA PDX and PGE, already have a couple of questions:
+
+Is PGE subject to this policy?
+If for some reason the existing system keeps us, ENA PDX, from being able to comply, what are our options.
+Is the phone system we have ordered (and its voicemail system), able to meet these needs without modification to the order. 
+
+I am sure that other questions will come up, and I will communicate back to you what PGE finds				.
+
+Please get back to me with thoughts.
+
+
+
+Dave
+
+ 
+
+Please be advised that effective Monday, September  10, 2001, the retention policy for all voice mails will be 30 days. 

@@ -1,0 +1,64 @@
+
+ problem)
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Richey, Cooper\Sent Items
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Many thanks.  Your copy works like a charm.  I'll be more diligent in my archive search next time.  
+
+ 
+
+Search the list archives, for this is an FAQ.
+
+Hint: the copy of R.1.4.0 on CRAN compiled for Windows does not work
+correctly with grid or lattice.  So either compile it yourself, or
+get the copy announced by me about Dec 20.
+
+
+On Tue, 22 Jan 2002, Richey, Cooper wrote:
+
+> All:
+>
+> I'm attempting to use lattice on windows 2000 under R 1.4.
+>
+> Rgui and Rterm crash when I invoke "xyplot" or "trellis.device" commands (including the oft-used "quakes" example)
+>
+> In particular, I get a message box from the windows OS with the following text:
+> 
+> Rgui.exe has generated errors and will be closed by Windows.
+> You will need to restart the program.
+>
+> An error log is being generated
+> 
+>
+> this seems to happen right after the graphics window is spawned.
+>
+> I'm using lattice version 0.4-0 and grid version 0.5
+>
+> am I missing some sort of prep work for lattice graphics?
+>
+> thanks any help,
+> Cooper
+>
+>
+>
+>
+>
+> **********************************************************************
+
+> **********************************************************************
+>
+> -.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-
+> r-help mailing list -- Read http://www.ci.tuwien.ac.at/~hornik/R/R-FAQ.html
+> Send "info", "help", or "[un]subscribe"
+> (in the "body", not the subject !)  > _._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._._
+>
+
+--
+
+Professor of Applied Statistics,  http://www.stats.ox.ac.uk/~ripley/
+University of Oxford,             Tel:  +44 1865 272861 (self)
+1 South Parks Road,                     +44 1865 272860 (secr)
+Oxford OX1 3TG, UK                Fax:  +44 1865 272595

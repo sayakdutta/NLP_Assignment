@@ -1,0 +1,37 @@
+
+ 
+ Is P&G approved to trade derivatives online?
+ 
+  
+     
+ mark 
+ 
+ fyi
+ 
+ J
+ 
+  
+    Cc:	Enron London - EOL Product Control Group
+  
+ I have run the reports again this morning and we do not have any deals with Proctor & Gamble that were concluded online.
+ 
+ Arfan
+ 
+ 
+ 
+  
+    Cc:	Enron London - EOL Product Control Group
+  
+ I have run some report queries and it appears that although they have read the ETA and have about 10 users they have never traded online.  I will run the report again tomorrow morning when it is quieter on the system to be doubly sure.
+ 
+ Thanks
+ 
+ Arfan
+ 
+  
+     
+ If you have ever traded cash-settled commodity or weather derivatives with this entity, please would you let me know
+ 
+ Thanks
+ 
+ J

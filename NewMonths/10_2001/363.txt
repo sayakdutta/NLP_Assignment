@@ -1,0 +1,54 @@
+
+
+Please release the new version of PL Desk to production.
+
+Thanks,
+Stacey
+
+ 
+Cc:	Evans, Casey; Martin, Karen Y; Crooks, William
+
+Stacey-
+The PL Desk report was modified, so I tested it earlier today and everything looked good.  Can you please send an email to Bill Crooks and Karen Y Martin so they can release the new version to production.
+
+Thank you.
+
+J.P.
+
+ 
+
+JP,
+
+Please test version 3.0.2.1 of PLDesk that is in Stage.
+It shows the Category (cmdty, cpcty) that was missing before.
+
+Let us know if it works good.
+
+Thanks!
+Nikolay
+x5-7265
+
+ 
+
+Any luck with the PL Desk Report?
+
+J.P.
+
+
+
+ 
+
+JP,
+
+I got your message yesterday but I had to re-image my machine at that time.
+I will look into it shortly and let you know what's the situation.
+
+Thanks!
+Nikolay
+
+ 
+
+Nikolay- 
+How did you get the column Deal Cat-Code to show up when you ran the PL Desk Report?  This was the column that separated the lines into Commodity and Capacity.  I don't see that column when I run this report.
+
+J.P.

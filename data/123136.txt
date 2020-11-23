@@ -1,0 +1,38 @@
+
+     Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Weldon, V. Charles\'Sent Mail
+ X-Origin: WELDON-V
+ X-FileName: v charles weldon 7-2-02.PST
+ 
+ 
+ 
+    
+ 
+ 	   		
+ 
+ 
+    
+ 
+ 
+     
+ Hi Jay,
+ 
+ Please find the attached file. It has two more tabs for the two regressions, one replacing the holes in the data(reg-wo-hole) and one with manipulation in the holes of the data (Regression-w-hole). Both the regressions suggest similar results. The graph shows regression output. We might want to try only the winter data if that is what you are looking for. Or, we may also put the restriction on the regression that the gas consumption cannot go down beyond 5000 (to take care of negative estimates).
+ 
+ Let me know what you think and I would be happy to do the further analyses.
+ 
+ Thanks 
+ 
+  
+     
+ Could you please run regression analysis on some data in this worksheet.  The two data arrays are on the "Daily" tab in column C and on the "Temperature" tab in column F.
+ 
+ Thank you,
+ 
+ Jay Reitmeyer
+ 33536
+ 
+  << File: daily usage values2.xls >> 
+ 
+ 

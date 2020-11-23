@@ -1,0 +1,57 @@
+
+ 
+ FYI.  Thanks. Lynn
+ 
+    
+  
+ Alice, would you get with Jennifer and see if this is what we need and then let everyone know.  Call me if you need help.  Thanks.
+ 
+  
+    Cc:	Powell, Don; Kedwaii, Hasan
+  
+ 
+ I put a stored procedure on etsadhoc...adhoctest.  It is called jlowry.storage_report.  It expects two parameters, 1. the gas date and 2. the service type (FDD, IDD, or SBA).
+ 
+ I believe the calculations are what you requested in your document.  I have not worked on the swing calculation because I'm not sure I have access to all the required data.  Also, I think you probably want the scheduled withdrawal to be a negative number so you'll get the net when you add injection and withdrawal together.  I essentially changed your net calculation to be injection - withdrawal, rather than adding the two together.  If this is wrong, let me know and I'll correct it.
+ 
+ Let me know if you need anything else.
+ 
+ Jennifer
+  
+     
+ Jennifer,
+ 
+ The report with the storage criteria is attached at the bottom of this email.
+ 
+ Thanks,
+ Alice
+ 
+    
+  
+ Alice,
+ the information you need from TMS can be found in the etsadhoc database of ETSADHOC server (ETSADHOC.ets.enron.com; ip address: 172.30.10.144).
+ Depending on whether you need nomination or scheduled information, you will need to query against either the Nom or Sched table.
+ 
+ Let me know if you need more information
+ 
+ Thanx
+ 
+  
+     
+ I think this is you area of expertise.
+ 
+  
+    Cc:	Dasilva, Esther
+  
+ I need to identify where certain storage and imbalance information reside on the  adhoc server. The attached document lists the data that is needed and where the data is in TMS. The next step is to identify which database stores the required information. 
+ 
+ Esther Dasilva has done some research and  found that part of this information is on the NNG adhoc database. We need your assistance to complete the mapping of this data to the adhoc tables. Can you meet with me and Esther on Tuesday to direct us to the correct path on mapping this data (see attached)?
+ 
+ Thanks,
+ Alice
+ 
+ 
+ 					 << File: BO Critical Points.doc >> 
+ 
+ 
+ 

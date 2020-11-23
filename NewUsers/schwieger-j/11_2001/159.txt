@@ -1,0 +1,14 @@
+
+
+If the MMBtu enhancement is this high, have we considered whether this liquid content would be to high for the pipelines to accept (exceed pipeline spec's).  Will additional facilities be needed to reduce the liquid content?
+
+ 
+Cc:	Boyt, Eric; Schwieger, Jim
+
+Garry,
+
+As part of the KAF modelling, I would like to account for the mmbtu enhancement. However, I would like your input as to what the most appropriate number to use. Currently--as per Brian Redmond--we have a 110% enhancement (I think this is the number that the GLO folks threw out at the meeting we attended). Is this in the ballpark? 
+
+Thanks and best regards,
+
+Chris

@@ -1,0 +1,35 @@
+
+ 
+ 
+ Lorraine,
+ 
+ Laura has re-invoiced PNM and we should be in agreement now.
+ 
+ Thanks,
+ 
+ Paul
+ 
+  
+    Cc:	Y'Barbo, Paul
+  
+ 
+ These invoices have been corrected and fax'd to customer.
+ Laura
+  
+     
+ Laura,
+ 
+ 	Would you please re-path this contract/invoice so the system will pick up the 1-part flag?  Thanks!
+ 
+ Craig
+ 
+  
+    Cc:	Brown, Elizabeth; Lee, Dennis
+  
+ Dennis just changed the flag last week.  It should now be creating a credit for commodity.
+ 
+  
+     
+ TK called and says PNM K# 27606 is a 1-part deal, is flagged as a 1-part in CBS but isn't creating a credit for commodity... any ideas?
+ 
+ Craig

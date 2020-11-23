@@ -1,0 +1,56 @@
+
+
+
+Any conflicts?
+ 
+
+Tana:
+
+Legal Name and Address:
+
+	Experian Inc. 
+	505 City Parkway West
+	Orange, CA  92868
+
+Contact Name:
+	
+	Sharon Granger
+
+	450 Gears Road,  Suite 130
+	Houston, TX  77067
+	281 877 1436
+
+Nature of Discussions:
+
+Several groups within Enron (RAC, Enron Direct North America, Enron Direct Canada,  Enron Direct U.K., Enron Credit) use credit scoring information to approve/deny credit to potential counterparties associated with deal flow.  D&B, the top source of this information in North America, only covers about 60% of the counterparties in which we have interest.  We want to bring Experian data into the credit process to get North American coverage up >90%.  It is possible that will want to use Experian to support Canada, UK, Spain and Netherlands markets as well.  As we get into discussion with Experian, we will need to reveal details about RAC, EES, EC, our systems, marketing plans, target acceptance rates, etc.  They will need to reveal limitations relating to coverage, interfaces, data structure, etc.  It is the coverage of these discussions I am seeking.
+
+Kim Detiveaux
+
+ 
+
+Re: Experian we need:
+
+1.  Full Legal Name and Address
+2.  Mark wants a more exact description of the nature of your discussions
+3.  An email address so we can send it directly to counterparty
+
+ 
+Cc:	Chaney, Craig; Perinne, Albane; Jones, Tana
+
+Kim -
+
+Please provide me with the full name and address for Experian.  Also, we can forward the agreement on your behalf if you provide us with an e-mail address and contact name.  Finally, please give me some indication of the exact nature of the discussions, if there is any need to make the NDA specific vs. general.
+
+If you provide these items today, we should be able to get our language out later this afternoon, tomorrow moring at the latest.
+
+Mark
+
+ 
+Cc:	Chaney, Craig; Perinne, Albane
+Importance:	High
+
+Mark:
+
+I have started discussions with Experian, likely to result in Experian becoming Enron's #2 provider of credit scoring data.  I need to get an NDA in place with Experian ASAP to cover sensitive items likely to be covered during our negotiations.  I would like to get our NDA language to them today.  Please advise as to how to proceed...
+
+Kim Detiveaux

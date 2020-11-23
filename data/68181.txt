@@ -1,0 +1,35 @@
+
+ 
+ This should be mapped to Omicron 3
+ PL
+ 
+ 
+  
+     
+ 
+  Bharat ;
+ 
+  Please map IF-NGPL/OK-NW .. I got following error from error log.
+ 
+  
+ 
+ [Book: ARUBA-TP-PHY1        ] Can't Find Vol_group mapping for 2452199,IF-NGPL/OK-NW
+ 
+ 
+ Nilay
+ 
+ 
+  
+     
+ Her Portfolios are given Below Nilay..............
+ 
+ Phillip is sending you the books....
+ 
+ Bharat
+ 
+ 
+ 
+ 
+ 
+ 
+  << OLE Object: Picture (Metafile) >> 

@@ -1,0 +1,23 @@
+
+
+I was incorrect about Alberta ENA, it should be zero but where is Alberta?  It should have a big position.
+
+Stacey
+
+ 
+
+
+Hi Stacey.
+
+We've generated the numbers below directly from EnPower/Adhoc (effective date 10/24). Just a couple of points I need to confirm before we can try to generate our DPR numbers from this query --
+
+1) where can we get the spreadsheet positions from?
+2) are these all the Enpower portfolios we should be picking up for Power?
+3) do the numbers for NA look correct? 
+4) I will be sending the numbers daily to the "contacts" listed -- any other names I should add?
+
+Thanks.
+- Tom
+
+
+ << OLE Object: Picture (Metafile) >> 

@@ -1,0 +1,36 @@
+
+
+---------------------- Forwarded by Darron C Giron/HOU/ECT on 01/09/2001 
+05:40 PM ---------------------------
+
+
+Jeffrey C Gossett
+01/08/2001 04:04 PM
+
+
+
+
+Fred Lagrasta (Middle Market NYMEX) will begin getting a daily report 
+begining today with all of his groups daily origination.  As such,  it is 
+essential that all information is accurate on the origination schedule.  
+Meaning :
+
+All entries must have:
+
+Book
+Deal #
+Date originated
+Customer
+Origination Group
+Origination Value
+Originator
+
+
+New information needed in this order:
+B/S
+Term
+Price
+Pub code
+
+
+Thanks for your help

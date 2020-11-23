@@ -1,0 +1,99 @@
+
+     Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ X- X- X- X-b X-Folder: \ExMerge - Williams III, Bill\Sent Items
+ X-Origin: WILLIAMS-W3
+ X-FileName: 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ In reference to the SI security upgrade can you please provide us a test server
+ for testing our product Gatewayplus( before the upgrade of the production
+ server).
+ This will help us knowing and inplementing changes we need to make in our
+ product and release it to our customers in time.
+ 
+ Thanks,
+ --Pankaj
+ 
+ 
+ 
+ 
+ |------------->
+ |(Embedded    |
+ |image moved  |
+ |to file:     |
+ |pic09372.pcx)|
+ |             |
+ |------------->
+   >|
+   |XiaoFeng Zhang/USTRA/ABB                                                |
+   |10/08/2001 11:33 AM (Phone: + 408 615 6362, Dept.: Energy Information   |
+   |System)                                                                 |
+   >|
+ 
+ 
+ 
+  cc:
+  
+ Security Level:?         Internal
+ 
+ FYI.
+ ---------------------- Forwarded by XiaoFeng Zhang/USTRA/ABB on 10/08/2001 11:23
+ AM ---------------------------
+ |------------->
+ |(Embedded    |
+ |image moved  |
+ |to file:     |
+ |pic19469.pcx)|
+ |             |
+ |------------->
+   >|
+
+   |10/08/2001 10:53 AM                                                     |
+   >|
+ 
+ 
+ 
+  
+
+
+
+
+
+
+  
+ Security Level:?         Internal
+ 
+ 
+ 
+ All,
+ Please be advised that the SI Server Certificates on the primary SI site in
+ Folsom will expire in about a month.  We are planning to install ISO
+ issued/trusted Certificates on the Folsom SI servers as we have already done
+ on the Alhambra server several months ago. We presently use Verasign as the
+ Third Party Trust.  We would like input from you as to any known issues with
+ authentication at the Alhambra SI site and any impact you may have seen
+ after our implementation there.  Please provide feedback to me via e-mail
+ prior to this Wednesday's TSWG meeting and I will consolidate concerns so
+ that we may discuss these in that forum.
+ Best Regards,
+ 
+           Ginger Seitles
+           Senior Market Integration Engineer
+           California ISO, Market Operations
+           Phone: (916) 351-4420
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 

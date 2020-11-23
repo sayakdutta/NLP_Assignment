@@ -1,0 +1,46 @@
+
+
+Zimin, Stinson
+
+I think I forwarded the message to you.
+Did we act on it?
+
+Vince
+
+---------------------- Forwarded by Vince J Kaminski/HOU/ECT on 03/06/2001 
+09:55 AM ---------------------------
+
+
+
+02/27/2001 03:53 PM
+
+
+Vince,
+
+Rob and I would like to coordinate a meeting with one of your Research people 
+to review the Spread Option calculation from the Exotica options library.  
+We're pricing a spread option deal in NYC and have some questions related to 
+the formula, greeks, etc.  Please let me know who might be available to sit 
+with us for about 1/2 hour.  Thanks
+
+- Jim
+
+---------------------- Forwarded by Jim Meyn/NA/Enron on 02/27/2001 03:49 PM 
+---------------------------
+   
+	
+	
+		
+
+
+
+Attached are the Delta positions for the NYC Constellation deal.  If you have 
+any questions or would like to review the model, please call me.
+
+Thanks,
+
+Mason
+
+
+
+

@@ -1,0 +1,45 @@
+
+ 
+ I am OK with the matrix.  Please also note that any GTC with a term of 9 months or longer should be signed by Enron and Counterparties.  
+ 
+ Nelson,  are you OK with using a GTC Spot for one-day deals?
+ 
+  
+     
+ see below is the template.
+ lisa
+ 
+  
+    Cc:	Gonzales, Sharon; Elledge, Susan
+  
+ Lisa,
+ 
+ This is the matrix I got from Judy Thorne on which GTCs to use.  Can you please double-check it and see if anything has changed?
+ 
+ Based on this, one-day deals will fall under a GTC Spot if we don't have a GISB in place with the producer.  In that instance, we don't need special handling in Sitara.
+ 
+ Hope this helps.  Please let me know what you find out from Gerald.
+ 
+ Thanks,
+ SBR x30569
+ 
+     This is our draft of the contract/confirm usage.  Hope this helps.
+ 
+ Judy
+  
+     
+ Gerald,
+ 
+ When you get a second, see if the following accurately captures which confirmation template should be used with which deals.
+ 
+ Confirmation Usage		
+ 		
+ Form	Deal Type	
+ GTC Firm Pooled Gas	1 - 12 months Pooled Gas	
+ GTC Firm Point Gas	1 - 5 months Wellhead Gas	
+ Committed Reserves	Producer trades > 6 months	
+ GISB	Day-month trades not with Producers with GISB	
+ GTC Spot	Day-month trades not with Producers without GISB	
+ 
+ Thanks,
+ Judy

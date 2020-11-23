@@ -1,0 +1,63 @@
+
+
+Lets see if this works.  My response is down below in blue.
+
+ 
+
+The original message was received at Mon, 29 Apr 2002 14:08:05 -0500 (CDT)
+from nahou-msmsw02p.corp.enron.com [192.168.110.109]
+
+   ----- The following addresses had permanent fatal errors -----
+
+    (reason: 550 : or % or ! redirected recipients are not allowed)
+
+   ----- Transcript of session follows -----
+... while talking to blackhole.dom.com.:
+>>> RCPT <<< 550 : or % or ! redirected recipients are not allowed
+
+
+   ----- Original message follows -----
+
+
+Received: from NAHOU-MSMSW02P.corp.enron.com (nahou-msmsw02p.corp.enron.com [192.168.110.109])
+	by postmaster.enron.com (8.10.1/8.10.1/external_corp-1.08) with ESMTP id g3TJ85x25179
+
+Received: from ene-mta01.enron.com (unverified) by NAHOU-MSMSW02P.corp.enron.com
+
+ Mon, 29 Apr 2002 14:08:05 -0500
+Cc:
+X-Priority: 3 (Normal)
+Importance: Normal
+
+X-MIMETrack: Serialize by Router on ENE-MTA01/Enron(Release 5.0.6a |January 17, 2001) at
+ 04/29/2002 02:08:00 PM
+Content-type: text/plain; charset="us-ascii"
+
+Buddy!!!    I'm still here and stll kicking.  You know I have a baby on the
+way.  Its due May 7th.  My woman is getting BIG!!  GOOD LORD!!  Enron is
+still going strong.  Looks like I'll be here for at least a year but you
+never know.  I bet you guys miss me too, calling up, asking dumb questions,
+falling off horses at the shipper meeting.
+
+How's life for you?
+
+    
+
+         
+
+   Just checking to see if you are still at Enron.  How is life treating
+   you?
+   Good I hope!!!
+
+
+   Thanks
+   Ora Ash
+   External Phone 304-627-3546
+   Tie  line  8-630-3579
+
+
+
+
+**********************************************************************
+
+**********************************************************************

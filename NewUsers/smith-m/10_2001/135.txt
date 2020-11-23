@@ -1,0 +1,26 @@
+
+
+thanks
+
+
+ 
+
+O:\Fundy_Ops\IT\Applications\SQL 2000 Enterprise\x86\setup\setupsql.exe
+
+
+Remember, you want to install the "Client Tools" only...
+
+Chris
+
+P.S. - the license key you need is in O:\Fundy_Ops\IT\Applications\SQL 2000 Enterprise\Serial key.txt
+
+
+ 
+
+Chris,
+
+I need to reinstall SQL on my machine.  Can you send me the link to the setup file in the IT directory.  I can't remember where it is.
+
+Thanks.
+
+Mat

@@ -1,0 +1,51 @@
+
+
+You can put John as your primary and me as  your secondary.
+ 
+Stacey
+
+ 
+Cc: 
+
+
+
+Hi Dave, 
+
+Yes, you are right, I just changed that intentionally in the second request, just to hope that the request doesn't go to you before it got approved by her. It seems like this still went to you even before she approved it.
+
+Stacey, 
+
+So should I have put you or Dave as the primary approver for my request? 
+
+Thanks, 
+Samantha 
+
+
+ 
+
+
+
+Samantha, 
+
+Looks like this one went to Stacey, with me as her backup. 
+You might want to ask Stacey who should be primary/secondary approver for your requests. 
+
+Thanks, d.n. 
+
+ 
+
+
+You have received this email because the requester specified you as their Manager's alternate. Please click <http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000066118&Page=Approval> to review and act upon this request.
+
+
+
+
+Request ID          : 000000000066118 
+
+Request Create Date : 10/8/01 3:19:27 PM 
+
+Resource Name       : Enpower North America West Production Table_Edit 
+Resource Type       : Applications 
+
+
+

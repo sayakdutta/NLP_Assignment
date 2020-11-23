@@ -1,0 +1,28 @@
+
+
+We don't need the currency or mmbtu/gj conversion language if Gas Daily agrees to what we want.
+
+ 
+Cc:	Seib, Dianne
+
+This is the language we have to start swapping EOL products vs. Gas Daily.  The next set is to get this language as an alternative to select when setting up products.  Please let me know if you think we need to make any changes.
+
+Regards,
+
+Jon
+
+
+ 
+Greg Johnston
+03/13/2001 05:53 PM
+
+Here is the revised long description.  It incorporates the two changes you had proposed.
+
+Thanks
+Greg
+
+ << File: Daily Daily Swap Language.doc >> 
+
+
+
+<Embedded Picture (Device Independent Bitmap)>

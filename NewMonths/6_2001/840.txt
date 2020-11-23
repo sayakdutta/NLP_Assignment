@@ -1,0 +1,49 @@
+
+
+
+FYI
+
+Vince
+ 
+
+Vince -
+Here is the Java job description.  The other is similar, but for a more
+experience SE.
+Bill
+
+>  
+> > > > >
+> here you go....
+>
+>  
+> > > > >
+> J
+> Enterprise Java Developer
+>
+> Our company is a finance-industry startup bringing new technology to a big
+> market. We're a small team building a big product and having fun while we
+> do it. We're looking for someone enthusiastic about Java technology to
+> help us build our online exchange. We require a creative, fast learning
+> developer with enough Java experience to take a new API and run with it.
+>
+> Required:
+> 	Good communication/creativity/sense of humor
+> 	1-2 years of Java
+> 	Working knowledge of XML
+> 	Working knowledge of JSP/Servlets
+> 	Familiarity with web technologies
+>
+> Pluses:
+> 	EJBs; experience with Weblogic and/or Orion
+> 	XSL/XSLT
+> 	JavaMail
+> 	JMS
+> 	Financial experience
+> 	Other programming languages
+>
+> ------------------------
+> Colin Jacobs
+> Software Architect
+> Opt4 Derivatives, Inc.
+> http://www.opt4.com
+> 

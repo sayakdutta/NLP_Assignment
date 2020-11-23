@@ -1,0 +1,65 @@
+
+ 
+ Purvi,
+ 
+ I have not heard any major news on the ENE stock , we are all just watching it drop
+ most energy company stocks are in decline right now , wal street is bearish with 
+ energy stocks until california gets settled 
+ 
+ How is the new group ?
+ 
+ Dutch
+ 
+ 
+  
+     
+ Thanks for the info. I did do the Black Sholes exercise and got a different premium.  I'll have to research it more. Anyways, thanks again for your help.. by the way, what is going on with the stock price? I only have 10 more days to exercise!!!!!!!! aaaggghhhhh
+ 
+ Purvi
+ 
+ 
+
+ Purvi,
+ 
+ Glad to see you working on some good stuff : )
+ 
+ you need to pull out a black sholes calculation and input the varialbles
+ that you were given
+ and then call a power options trader to ask for a marekt to check the
+ resonableness of the model
+ models can be way off on options due to skew and market conditions
+ 
+ good luck
+ 
+     
+
+ 
+ 
+             
+    I have this little project to do and i need a little help from you...
+    (since you are an expert in this field!!)
+ 
+    ok-- i need to figure out what the premium is on an aug on- peak call
+    option for power. Now , I know that power is not what you do, but I can
+    use some ideas on how to get started.
+ 
+    Terms
+ 
+    Strike price  is $200/ MWH
+    Forward curve for Aug is $125/MWH
+    Aug 2001
+    Foward Volatility of 100%
+    Valuation Date is June 8, 2001
+    Interest Rate is 6%
+    On- Peak Call Option for 50 MW
+ 
+    SO far, I have looked at some forcasts for Aug, and seen which hours the
+    market rate is above 200 to come up with a premium value.  I have an
+    answer for this problem, but I was just curous as to see where you would
+    start. Anything will work. Thanks!!
+ 
+    Purvi
+ 
+    P.S-- also, don't be hesitant to tell me that you have no clue--- You'll
+    still be my favorite manager!!!
+ 

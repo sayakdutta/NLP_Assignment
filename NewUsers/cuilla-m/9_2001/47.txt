@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+This is an automatically generated Delivery Status Notification.
+
+Delivery to the following recipients failed.
+
+
+
+
+
+
+--------- Inline attachment follows ---------
+
+
+
+$20 from pool
+$62.50 from 250-125 game 1
+$32.50 from 255-190 game 2
+ 

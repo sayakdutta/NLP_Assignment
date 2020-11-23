@@ -1,0 +1,31 @@
+
+
+I thought we already told them to exclude those portfolios???
+
+Stacey
+
+ 
+Cc:	White, Stacey W.
+
+I found out where the retail number is coming from. You are picking up an EES West portfolio which is incorrect. That is our test env't only and not in production.
+
+John
+
+ 
+
+Could you tell me where you are getting the retail west numbers from.
+
+John
+
+ 
+Cc:	Considine, Keith; McClure, Zakiyyah; Velasco, Jennifer; Victorio, Tom
+
+
+
+Thank you,
+Susan
+x3-1462
+
+
+ << File: PowerExportTab - Publish.xls >> 
+

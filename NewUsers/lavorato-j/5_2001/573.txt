@@ -1,0 +1,107 @@
+
+
+wow
+
+ 
+
+Joh/Kevin
+
+I am sorry, but I cannot believe what I read below.  
+
+Arch of Chicago - multiply by EXPECTED number of accounts??????
+Suiza - How do we measure milk production, we cannot even manage energy consumption - Got Milk?????
+Packaged Ice - ??? I hope we don't have any ice facilities in California.
+
+Conclusion - I do not expect that we will do any more deals like this anytime soon.
+
+Rogers
+
+
+
+
+
+The brief synopsis on causality of the losses are as follows:
+
+Arch of Chicago
+
+The deal was originally priced (in 1998) with one account and the results were multiplied by the expected number of accounts.  We have re-priced the deal with actual volumes from our billing system (to capture all active volumes).
+
+Suiza
+
+The revenue is based on a production index (gallons of milk).  We have updated the revenue from the Consumption Desk and re-priced costs with data from our billing database.  In addition, we have worked with the Account Manager to segregate pass-through vs. active volumes.
+
+Packaged Ice
+
+The revenue is based on a production index (bags of ice).  We have updated the revenue with data from the Account Manager and the Consumption Desk.  We have also re-priced costs with data from the our billing system.
+
+Conclusion
+
+The losses are amalgamation of structured vs. actual volume differences, production index revision and initial modelling error.
+
+
+If I can be of further assistance to you, I can be reached at 3-1902.
+
+Thank you.
+
+Best regards,
+
+Mike Kim
+
+---------------
+Michael -
+
+Are these changes in the forward volumes (unrealized losses).  Can you explain the reason for these adjustments?  How much more exists that we need to address?
+
+Thanks,
+Rogers
+
+
+
+
+
+
+
+20 Million !!!!!!  Is this back money or forward money.  Why did the volumes change so much.
+
+ 
+
+FYI
+
+
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+
+05/21/2001 05:35 PM
+
+FYI
+
+
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 	Enron Energy Services  		
+
+
+
+
+
+
+We have re-priced Suiza, Packaged Ice, and Arch of Chicago with updated volume information from our billing system.  The impact is as follows:
+
+ << OLE Object: Picture (Metafile) >> 
+
+The impact will be recognized on the DPR and G/L, pending Accounting Department's "green light."
+
+Thank you.
+
+Best regards,
+
+MSK
+
+
+
+
+
+
+
+

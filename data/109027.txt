@@ -1,0 +1,29 @@
+
+ 
+ Thanks for the update
+ 
+  
+     
+ Colin asked me to cover our current development on security.
+ 
+ I met with the Web Requests team yesterday and we found that our model was correct however there was an bug in the software.
+ We have worked through that and will do some further testing today.  If all goes well I anticipate we can define the users in the group
+ and implement secure links next week.
+ 
+ David
+ 
+  
+    Cc:	Dronet, David
+  
+ Hunter/Chris .... fyi, progress has been made to the web based site stats reports. We will meet with the developer today to go over what been complete to date.
+ 
+ http://egmfundy.dev.corp.enron.com/sitetrack/
+ 
+ ... in addition, the changes to the Gas Message board (in dev) are nearly complete. The is currently owned by another group, we intend to take this over in due course.
+ 
+ http://gasmsgboard.dev.corp.enron.com/MsgBoard/Chat/msgframe.asp
+ 
+ (there may be an error posting to the above message board, should resolved today.)
+ 
+ Please forward comments and feedback
+ -Colin

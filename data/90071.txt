@@ -1,0 +1,82 @@
+
+ 
+ No more e-mails.   I still don't have the forward FPC tariff curve.  How is this so complicated.
+ 
+  
+     
+ We are using the utility prices through 12/08.  Starting 1/1/2009, Enron is supplying.
+  
+  << File: Florida Info 062901.xls >> 
+ 
+ OK?
+ 
+  
+ 
+ 
+     
+ I need the reg gen postion, transmission position, distribution position, and ancillary position.   If you have to bundle the T&D and ancillary into one position, that is fine.   However, I want the pricing assumptions for the individual pieces and our best guess for the MWh position.
+ 
+ Thanks.
+ 
+  
+     
+ More information:
+ 
+  << File: Florida Info 062901.xls >> 
+ 
+ What else do you need?
+ 
+ 
+ 
+ 
+     
+ Did you use Florida curves from Friday?   The curves are much lower Friday vs. Thursday. 
+ 
+  
+     
+ Is this what you are interested in?
+ 
+ Florida only:
+  << File: TE for Florida Unwind 062901.xls >> 
+ 
+ Thanks,
+ Heather
+ 
+ 
+ 
+     
+ I need a summary of the Florida unwind only.   Please send me a one page hard copy.
+ 
+  
+     
+ 2nd part:
+ 
+ 
+ 
+  << OLE Object: Picture (Device Independent Bitmap) >> 
+ Heather Thompson
+ 07/02/2001 10:52 AM
+    
+ We will start physically serving Florida in 1/1/2009, Oregon in 1/1/2010:
+ 
+ 
+  << File: TE for Unwind of OR, CA, FL.xls >> 
+ 
+ The locations of the files are:
+ 
+ R:\RISK_MGT\Underwriting\Deals\GNO\Tyco Healthcare_add sites\
+ Tyco-Mallinckrodt Final Pricing Files\Tyco\Unwind OR, CA, FL\Bid for Power OR, CA, FL
+ 
+ Any other info needed?
+ 
+ Thanks,
+ Heather
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,33 @@
+
+
+Jay,
+
+Can you set up one more simulated account with access to all products for the west desk.
+
+Thank you,
+Phillip Allen
+
+ 
+Cc:	Allen, Phillip K.
+
+
+Hunter,
+
+The simulation url is https://simweb0.eolsim.com
+
+Your accounts are:
+	access to all:		simtrader1
+	access to us gas only:	simtrader3, simtrader4
+
+Phillip's accounts are:
+	access to all:		simtrader2
+	access to us gas only:	simtrader5, simtrader6
+
+In each case, the password is the same as the username.
+
+Let me know if you have any questions.
+
+Thanks!
+
+--jay
+	

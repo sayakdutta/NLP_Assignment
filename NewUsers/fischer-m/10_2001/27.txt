@@ -1,0 +1,36 @@
+
+
+Per my conversation with Eloise Williams the proceeds of $138,475,829 were never recorded on 33R but were recorded on 33Q.  Since this is a sale of inventory I'm assuming that the gain will be ordinary and should be reduced by the tax basis in the credits of $104.8 million.
+
+ 
+Cc:	Seade, Jerry; Swafford, John; Eggebrecht, Kurt
+
+
+Mary, I'm not sure what accounting is doing.  The entry below is not complete.  For third quarter close company 33R received proceeds of $138,475,829 for SO2 credits.  The credits are held in inventory on company 33Q, the mark-to-market revenue for the SO2 is reported on 33R.
+
+The attached workbook is my best guess of the tax basis in the credits ($104.8 million); the tax gain should be about $33.7 million.
+
+Can you check with your accounting contacts for company 33R to get a complete picture of the accounting entries?
+
+
+ << File: so2 inv1.xls >> 
+
+ 
+Cc:	Murphy, Carla
+
+The correct entry is a debit to 19999995 (Cash) and a credit to 45000000 (Revenue)
+
+ 
+Cc:	Murphy, Carla
+
+Jeff,
+
+The SO2 entry was booked to the following accounts:
+
+Debit to 19999995             $138,475,829.50
+Credit to 20011000            $138,475,829.50
+
+
+Eloise Williams
+Enron Global Markets
+713-345-1667

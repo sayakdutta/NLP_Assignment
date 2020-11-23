@@ -1,0 +1,66 @@
+
+
+Laurel, I just auto scheduled through the 29th.  We have had major system problems, We apologize for the delay.  Let me know if this worked.  I'm still not 100% confident regarding our system.
+
+lisa
+
+ 
+
+Do you know when you will have yesterday scheduled?  We need that info to complete our daily reports and I need to let some people know when they will be available?
+
+Thanks,
+Laurel
+
+ 
+Cc:	Gang, Lisa; Roselius, Steven
+
+
+
+       Luarel,
+
+       Lisa Gang schedules on the WEST.
+       She promissed to schedule for the last 2 days right now.
+       I don't have her tel.number, she is not in peoplefinder.
+
+Thanks,
+Kroum
+x39980
+
+
+ 
+
+I am not sure what you  are asking, but we run this report everyday for the east and west performance books and there is always liquidations.  Today (for 3-26-2002) we are only able to see liquidations for the east book and I am certain there are liquidations for the west book also.
+
+Laurel
+
+ 
+
+
+    I am looking at that.
+The last schedule strip for that desk has ToDate  3/24/2002.
+Was WEST and that desk scheduled ?
+
+KK
+
+ 
+
+
+Do you have an estimate of when we can run the PSCNA for West?  (East ran with information, it was just west that was a problem.)  We need to send out our reports that include that information in the next hour.
+
+Thanks,
+Laurel
+
+
+ 
+ 
+
+
+    Laurel,
+
+  Please, give me the parameters and the error you are getting with PCSNA.
+
+
+Thanks,
+Kroum
+x39980
+

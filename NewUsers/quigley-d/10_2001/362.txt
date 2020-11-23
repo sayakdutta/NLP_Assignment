@@ -1,0 +1,44 @@
+
+
+we do not have that data
+
+ 
+
+Dutch, I need the bid/offer spread as well.  For each transaction, I need the prevailing bid/offer spread. Could you get that quickly?  I will wait for that right now. I am out tomorrow and would like to work on this on the weekend.
+
+Thanks,
+
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+
+
+ 
+Cc:	Arnold, John
+
+Here is the EOL information
+
+ << File: eol for 10-17.XLS >> 
+Dutch
+
+ 
+
+This guy is working on an EOL project for me right now.  Can you send him a file with our EOL trades for today or yesterday with product, price, buy/sell, and timestamp but counterparty names deleted
+
+ 
+
+John, just a reminder, please send a sample gapping data when you get a chance.
+
+
+Ravi Thuraisingham, CFA
+Director, Storage Trading
+Enron Broadband Services
+p  713.853.3057
+c  713.516.5440
+pg 877.680.4806
+
+
+ 

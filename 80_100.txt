@@ -1,0 +1,9 @@
+Name		Score
+
+dasovich-j	83.5
+jones-t		100
+kaminski-v	96.33
+mann-k 		93.47
+shackleton-s 90.82
+
+ 

@@ -1,0 +1,58 @@
+
+
+Lindy, would you please look this over.  I did not see your name on the distribution list.  
+
+Thanks, Kim.
+
+ 
+Cc:	Schoolcraft, Darrell; Darveaux, Mary; Miller, Mary Kay; Lohman, TK; Betancourt, Ramona ; Watson, Kimberly; Holmes, Bradley
+Importance:	High
+
+All,
+
+Due to the model office refresh this weekend we have decided to implement change Monday morning 10/22/01.  I will notify this group when migration is completed and in production for the additional groups on the TW Unsubscribed Capacity page .
+
+Toby
+
+ 
+Cc:	Schoolcraft, Darrell; Darveaux, Mary; Miller, Mary Kay; Lohman, TK; Betancourt, Ramona ; Watson, Kimberly; Hermanek, Patty
+
+I am ready,  lets roll the report and I'll check for accuracy, in the production environment.
+
+PT
+
+  
+Cc:	Schoolcraft, Darrell; Licciardo, Jeanne; Lohman, TK; Betancourt, Ramona ; Watson, Kimberly; Frazier, Perry
+
+Looks ok to me-  thanks  for the work on this-  MK
+
+ 
+Cc:	Schoolcraft, Darrell; Licciardo, Jeanne; Lohman, TK; Betancourt, Ramona ; Watson, Kimberly; Frazier, Perry
+Importance:	High
+
+Mary Kay, Mary,
+
+The requested changes have been made to the "TW Unsubscribed Capacity". Please review the test site http://twdev.ets.enron.com/twdb/etfr_unsubcapasp.html and at your earliest convenience let me know if you are satisfied with the format changes.  Patty is looking into when the table changes will be made so we can place into production.
+
+Toby
+
+
+
+Toby
+ 
+ 
+
+Here is the report in Model office. Please review for completeness and sequence of the new groups that were added. Do not verify the content of the data , this is Model Office data that has not been refreshed from Production. Please let me know your approval to proceed with this move to Production. Please forward to anyone else that needs to review prior to production. Also attached is the updated Groups document.
+
+  << File: cas group name.xls >> 
+[Licciardo, Jeanne]  
+ 
+Cc:	Licciardo, Jeanne
+
+Here's the url for the tw unsubscribed capacity report.  The report now displays 10 groups.
+
+http://twdev.ets.enron.com/twdb/etfr_unsubcapasp.html
+
+If you have questions, please ask.
+
+Thanks.

@@ -1,0 +1,18 @@
+
+
+---------------------- Forwarded by Kate Symes/PDX/ECT on 12/12/2000 08:44 AM 
+---------------------------
+   
+	
+	
+		
+
+
+
+There is an hourly trader named Geir Solberg whose trades appear on our 
+reports to be confirmed.  We go into each trade and change them to not to be 
+confirmed.   The other hourly deals do not appear on these reports.  I think 
+perhaps his defaults are not set correctly.  Can you check with him on this. 
+I don't know why his are appearing on the reports and not other hourly deals.
+
+Thanks!  

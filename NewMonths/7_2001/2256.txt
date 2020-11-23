@@ -1,0 +1,22 @@
+
+
+
+
+ 
+
+Flight: from HOUSTON TX to SAN FRANCISCO 
+Day and Flight: CO 1566 
+Class: M 
+Depart: HOUSTON TX, 11:55AM 
+Arrive: SAN FRANCISCO, 1:52PM 
+Equipment: 737-800 
+Meal: Snack 
+ 
+Flight: from SAN FRANCISCO to HOUSTON TX 
+Day and Flight: CO 540 
+Class: M 
+Depart: SAN FRANCISCO, 10:40AM 
+Arrive: HOUSTON TX, 4:31PM 
+Equipment: 737-800 
+Meal: Snack 
+ 

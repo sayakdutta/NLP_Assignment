@@ -1,0 +1,45 @@
+
+ 
+ If they can split by business unit they must have by company.  The FERC nor the partnerships will accept these charges unless we have the data to send the costs to them.  I really need something like yesterday.  I thought we had this resolved a long time ago.
+ 
+ 
+ 
+  
+    Cc:	Geaccone, Tracy
+  
+ The ISC does not have this information below the business unit level.  HR may be able to match the p-numbers up to company in a semi-automated fashion.  Or, you could use the number of documents and master data as the bases and exclude the user counts in the weighting. 
+ 
+  
+    Cc:	Geaccone, Tracy
+  Importance:	High
+ 
+ 	How much trouble would it be to have the list of users/licenses split by ETS company?
+ 
+  
+     Importance:	High
+ 
+ We should be able to use this to allocate SAP costs to companies.
+ 
+  
+     Importance:	High
+ 
+ fyi the first workbook below (isc allocation metrics) has a password on it........  owl
+ 
+  
+    Cc:	Schlaudraff, Christine; Sullivan, Michael
+  
+ Tracy,
+ 
+ These are the statistics provided by Chris Schlaudraff.
+ 
+  << File: ISC Allocation Metrics.xls >> This is a recap at the business unit level.  The business unit allocation is weighted as follows:
+ 			29.27% based on how many licenses we have.
+ 			53.41% based on how many documents we have on the system.
+ 			17.32% based on the amount of CO data (or master data) we have on the system.
+ 
+  << File: Stats by company for ETS.xls >> This is the detail of the documents (# of FI docs & # of PO docs columns) and the CO data (all other columns) ETS has on the system.....by company.
+ 
+  << File: ISC ets licenses.xls >>   This is a list of the ETS users/licenses.  It is not by company.  
+ 
+ Let me know if you have any questions,
+ Greg

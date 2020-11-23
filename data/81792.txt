@@ -1,0 +1,41 @@
+
+ 
+ 
+ 
+  
+     
+ There is an excel queries file out there too.  I moved the files I use so if there is anything else you need please move it.  Greg will be helping us with the million different forwards details we have to get one for financial and one for physical that have everything we need.  The copy post-id macro is also in there.
+ 
+ KK
+ 
+ 
+ 
+ 
+ 
+ 
+  
+     
+ I think we should also put the position report file in there that Jad/Couch created as a backup to the CEPos/East Positions.  Couch can you put the query file you set up for the price desk?
+ PL
+ 
+ 
+  
+     
+ Jeff was able to create a Netco file under O:\erms\erms_adm without an erequest.  There is a file for each region out there now.  I will save the new p&l to each region but could each of you please pick an p&l from your region as a back-up just in case. 
+ 
+ these are the files I know of
+ 
+ Exotica
+ P&L
+ Hedgestrips
+ All excel queries
+ Weapon-X & new version
+ Access financial reports
+ Exotics file
+ Transport model
+ Curve files
+ 
+ 
+ Do you guys have anything else?
+ 
+ Kam

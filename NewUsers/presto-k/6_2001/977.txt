@@ -1,0 +1,51 @@
+
+
+Thanks.
+
+ 
+
+Mr. Presto,
+I have the answer back from UBS PaineWebber on the reimbursement the fees
+that you have been charged in the past on your options trades. Although I
+did convince them to let us waive all future fees, it was pointed out to me
+that it does say in your InsightOne Account Agreement under the paragraph
+"Other Fees and Charges" that "With respect to aggregate trades of over
+5,000 equity shares or 50 option contracts executed in the same security on
+the same side of the market (buy or sell) on the same day, Client will also
+pay $.02 per equity share on all shares over 5,000 and $2.00 per option
+contract on all contracts over 50." Please give me a call if you have any
+questions.
+
+Thanks,
+
+Hank Emery
+
+
+
+
+I am trying to customize the view and I keep getting an error.   Can you
+check into this problem.
+
+I want the view for both portfolios to be:		Open Date
+						Quantity
+						Purchase Price
+						Last Price
+						Cost Basis
+						Market Value
+						Gain/Loss
+						Gain/Loss%
+
+Can you make this the default view setting.
+
+thanks.
+
+
+
+Notice Regarding Entry of Orders and Instructions: Please
+do not transmit orders and/or instructions regarding your
+UBS PaineWebber account(s) by e-mail. Orders and/or instructions
+transmitted by e-mail will not be accepted by UBS PaineWebber and
+UBS PaineWebber will not be responsible for carrying out such orders
+and/or instructions.  Notice Regarding Privacy and Confidentiality:
+UBS PaineWebber reserves the right to monitor and review the content of
+all e-mail communications sent and/or received by its employees.

@@ -1,0 +1,28 @@
+
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+BX-X-X-X-bX-Folder: \ExMerge - Williams III, Bill\Sent Items
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Michael,
+I think you intended to send this to Bill Williams in Technical Assets. Please note the difference in addresses and make the change.
+Thanks,
+
+Bill
+
+ 
+
+
+In order to further clarify our understanding of how the payment mechanism would work in the exhibits of the PSA, I am attaching a summary of the preferred method for compensation under the Pre-NTP and NTP phases of the PSA's.  In particular, on the NTP Lump Sum price determination, we would prefer to see the breakdown of manhours in the format previously transmitted (by task by month), and by Engineering Discipline.  The Canadian rate structure you provided had about 15 or more categories of Engineering Disciplines, and this should be used to reflect the all-in hourly rates times the manhours in each category which will equate to the estimated Lump Sum price noted in the attachment.  
+
+Your organization chart reflects all personnel in Vancouver being assigned to the project team, except the Customer Sponsor.  We would not expect to have to pay for the sponsor's cost, nor any travel time for personnel to/from Atlanta.
+
+We are getting clarification from LED if the actual driving of the test piles will be included in your deliverables or will be done directly by LED during the Oct 1-31 period.  Will advise.
+
+Mike    
+
+ 
+
+ 

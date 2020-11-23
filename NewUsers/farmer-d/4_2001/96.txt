@@ -1,0 +1,40 @@
+
+
+That's fine.
+
+ 
+
+Daren,
+
+Is it alright if I enter the following deals?
+
+Bob
+
+
+
+Bob,
+
+The following production is now on-line and a ticket should be created and entered into sitara based on the following:
+
+
+Counterparty			Meter			Volumes	Deal #	Price				Period		Global No.
+Louis Dreyfus Nat Gas Corp		9874			750mmbtu/d	NYA	If del vols <300/d, 88% GD
+											>300/d, 100% GD less $0.29	4/12-4/30	96058618
+
+Pure Resources, L.P.		9882			425mmbtu/d	NYA	100% GD less $0.14		4/17-4/30	96058384
+	
+FYI, we will create and submit committed reserves firm tickets for the remaining term of the deals beginning with the appropiate month.  Additionally, these are Producer Svcs. deals and should be tracked in the IM Wellhead portfolio... attached to the gathering contract.
+
+
+Thanks,
+
+vlt
+x3-6353
+
+
+
+ 
+
+See attached files
+
+ << File: fdlet.doc >>  << File: fdlet2.doc >> 

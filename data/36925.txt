@@ -1,0 +1,26 @@
+
+ 
+ 
+ 
+  
+     
+ Here is a test of several items you have learned in the Excel class so far.
+ 
+ I have set up a basic program structure for you that opens a file and reads the file, line by line, into the variable "sBuf".
+ 
+ You should write functions that tally the results asked for on Sheet1  (number of lines in the file, number of characters, etc).  A user should be able to enter a search (source) string.  Given the string you should also search for how many times it occurs in the file under 3 different conditions (case-sensitive, case-insensitive and as a "word" - separated by blanks).
+ 
+ You should have all the basic concepts down to complete the program fairly easily.  Work on this project and we will discuss it on the Monday following Thanksgiving.
+ 
+ I will be out tomorrow and next week.
+ 
+ Have fun!
+ 
+ 
+ 
+ 
+  
+     
+ HERE IT IS.
+ PL
+  

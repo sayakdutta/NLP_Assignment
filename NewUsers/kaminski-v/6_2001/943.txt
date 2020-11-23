@@ -1,0 +1,80 @@
+
+
+
+
+ 
+Importance:	High
+
+Vince,
+
+Just a note to keep you informed about the curves our group is working on for RAC's revaluation of international assets for the August board meeting. 
+
+ 
+Importance:	High
+
+Maureen and Gwyn,
+
+I just rcvd this data from Paddy.  Please note that this request is in addition to the requests for the Houston office.
+
+Thanks!
+
+ 
+
+Cindy,
+
+As requested, below is the list of FX and inflation data we need in London for the Q2 revaluations.
+
+US:		US CPI forecast.
+UK:		GBP/USD FX curve.
+Turkey:		TKL/USD FX curve.
+Italy:		ITL/USD FX curve and CPI forecast.
+Euroland:	EUR/USD FX curve.
+Switzerland:	CHF/USD FX curve and CPI forecast.
+Poland:	PLN/USD FX curve and CPI forecast.
+
+Regards,
+
+Paddy
+
+
+
+ 
+Cc:	Gorte, David; Cangucu, Andre; Thuraisingham, Padmesh
+Importance:	High
+
+Maureen,
+
+Andre is going to look over the list of curves needed for the global assets (August Board meeting) one more time before I forward it to you.  He will make sure that we do not request FX and inflation (CPI,PPI, etc.) curves when only one of the curves will actually be used in the valuation process and to determine which inflation index is needed.  Typically, we receive both FX and inflation from you, but both curves may not always be used.  I hope that we can give you some time savings by eliminating any nonessential requests.
+
+For now, this is the list of countries for which  we will  probably need the FX and/or inflation curves.  I will send the specifics per Andre later today.
+
+India 
+Philippines
+Bolivia
+Jamaica
+Guatemala
+Venezuela
+Columbia
+Puerto Rico	CPI only (I need historical inflation data, as well)
+Panama
+Brazil		we have current data already
+China		we have current data already
+Euro		inflation only
+
+I am not certain about the needs for the London Underwriting/IV group but will request the information from them if you have not done so already.
+
+Thanks!
+
+Cindy
+
+
+ 
+Cc:	Kaminski, Vince J; Koepke, Gwyn
+
+David and Cindy,
+
+Please send us the list of the curves that you will need to revalue our international assets for the August Board meeting. 
+
+Thanks,
+
+Maureen

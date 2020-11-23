@@ -1,0 +1,62 @@
+
+ 
+ 
+ kam:  do i need to do anything?
+ 
+ 
+  
+    Cc:	Sweitzer, Tara; Walker, Chris; Gay, Randall L.; Clause, Kristen; Moorer, Torrey; Meredith, Kevin; Hoang, Charlie
+  
+ 
+ Kam,
+ 
+ I need someone to take a look at the attached screen shots and approve this product for Randy.  Please let me know if you can help me.
+ 
+ Thanks,
+ 
+ Melba
+ 58986
+  
+    Cc:	Sweitzer, Tara; Walker, Chris; Gay, Randall L.
+  
+ Kristen,
+ 
+ Have you gotten a chance to look at this?  Please let me know how I can help you get this done.
+ 
+ Thanks,
+ 
+ Melba
+ 58986
+ 
+  
+    Cc:	Sweitzer, Tara; Walker, Chris
+  
+ Please review and approve the attached product.  
+ 
+  << File: Phy Index GD D EP SJ 11-1.doc >>  << File: transaction report.xls >> 
+ US Gas Phy Index GD/D EP-SJ (Bondad)     Dec01           USD/MM	59519
+ 
+ 
+ 
+ Thank you,
+ 
+ Melba
+ 
+  
+     
+ The Delivery Point: ELPASO/BON
+ NYMEX Ref: NX1
+ Delivery: IF-EPSJ(BONDAD)
+ 
+ 
+  
+     
+ 
+ What should the Delivery Point say?  What should Nymex Ref say?  What should Delivery Say for the following product in blue
+  
+ US Gas Phy Index GD/D EP-SJ (Bondad)     Dec01           USD/MM	59519
+ 
+ Index= El Paso San Juan (Bondad) GD/D (phys index)
+ 
+ 
+  << OLE Object: PBrush >> 

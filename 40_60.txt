@@ -1,0 +1,12 @@
+Name		Score
+
+arnold-j	57.59
+cash-m		50.09
+germany-c   57.98
+grigsby-m	43.87
+haedicke-m	54.09
+heard-m		41.33
+neal-s 		48.77
+shankman-j 	45.29
+whalley-l 	42.72
+

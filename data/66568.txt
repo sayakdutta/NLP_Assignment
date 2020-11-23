@@ -1,0 +1,137 @@
+
+ 
+ Just compare to the bid in chicago
+ 
+  
+     
+ 
+ Andy --
+ 
+ If that is the case, for the example we went through yesterday, the
+ transport cost would be:
+ 
+ (NYMEX offer + Amarillo offer)*(1/(1- fuel ratio)) + commodity charge
+ (2.80 -0.05)*(1/(1-0.0319)) + 0.0167
+ 2.75*1.0329 + 0.0167 = $2.86
+ 
+ How do you compare this transport cost to the spread between Amarillo and
+ Chicago basis and index (12 cents) to decide whether to transport?
+ 
+ Thanks!
+ Ann
+ 
+ 
+ 
+ 
+
+             om                                                                       cc:
+             11/15/2001 12:26 PM                                                      got it
+ 
+ 
+ 
+ 
+ 
+ 
+ See correction below
+     
+                 
+    Is the formula for calculating transport cost:
+ 
+    cost of gas at receipt*(1/(1- fuel ratio)) + commodity charge?
+ 
+ 
+    ----- Forwarded by Ann S. Chen/Internal/Accenture on 11/15/2001 12:12 PM
+    -----
+ 
+                Ann S. Chen
+                                             To:
+
+                11/15/2001 11:44 AM          cc:
+                                                 transportation per MMBtu
+ 
+ 
+ 
+ 
+    Andy --
+ 
+    I have a couple of questions as I dive more into the details of figuring
+    out transportation costs. Still trying to figure out how you make your
+    decision whether to transport or not.  You compare the cent spread
+    between
+    the Amarillo(offer) and Chicago basis(bid)+Nicor Index(bid) versus the
+    transportation cost.  In the numbers you provided in your example, the
+    spread was 12 cents.  I'm still confused as to how you compute the
+    transportation cost to compare that spread with. The fuel ratio you
+    specified was 3.19% and the commodity was $0.0167.
+ 
+    Thanks,
+    Ann
+ 
+ 
+    ----- Forwarded by Ann S. Chen/Internal/Accenture on 11/15/2001 11:31 AM
+    -----
+ 
+                Ann S. Chen
+                                             To:
+
+                11/14/2001 06:00 PM          cc:
+                                                 Scenario Update
+ 
+ 
+ 
+ 
+    Hi Andy --
+ 
+    Thanks for helping us understand the tranportation and storage problem
+    today. We appreciate your patience. I know it's like teaching a baby how
+    to
+    walk!
+ 
+    Anyway, just wanted to get you the updated numbers for the
+    transportation
+    scenario, based on the changes you made at teh meeting today.  Can you
+    also
+    double check with Philip regarding the issue with hedging Basis with
+    regards to transportation?
+ 
+    Have a great weekend!
+ 
+    Thanks!
+    Ann
+ 
+    (See attached file: Transportation.doc)
+ 
+ 
+ 
+ 
+    This message is for the designated recipient only and may contain
+    privileged, proprietary, or otherwise private information.  If you have
+    received it in error, please notify the sender immediately and delete
+    the
+    original.  Any other use of the email by you is prohibited.
+     - Transportation.doc << File: Transportation.doc >>
+ 
+ 
+ 
+ **********************************************************************
+ This e-mail is the property of Enron Corp. and/or its relevant affiliate
+ and may contain confidential and privileged material for the sole use of
+ the intended recipient (s). Any review, use, distribution or disclosure by
+ others is strictly prohibited. If you are not the intended recipient (or
+ authorized to receive for the recipient), please contact the sender or
+
+ all copies of the message. This e-mail (and any attachments hereto) are not
+ intended to be an offer (or an acceptance) and do not create or evidence a
+ binding and enforceable contract between Enron Corp. (or any of its
+ affiliates) and the intended recipient or any other party, and may not be
+ relied on by anyone as the basis of a contract by estoppel or otherwise.
+ Thank you.
+ **********************************************************************
+ 
+ 
+ 
+ 
+ This message is for the designated recipient only and may contain
+ privileged, proprietary, or otherwise private information.  If you have
+ received it in error, please notify the sender immediately and delete the
+ original.  Any other use of the email by you is prohibited.

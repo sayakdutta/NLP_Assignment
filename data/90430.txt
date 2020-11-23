@@ -1,0 +1,49 @@
+
+ 
+ I don't agree with either 7 or 8.   The 0.1 LOLP generally results in 20-25% reserve margins which are excessive.   Reserve margin is a meaningless measure in an efficient commodity market because supply and demand adjust to price signals to keep the market in balance.
+ 
+ My view is that ICAP should be eliminated completely and, if utilized, transitional only for a 1-2 year period.   The other alternative is the ISO to have a reliability auction whereby quick-start units contract directly with an ISO for meeting reliability reserve reqs.
+ 
+  
+    Cc:	Allegretti, Daniel; Fromer, Howard
+  
+ Below is the draft white paper prepared by EPSA as a result of the workshop held on May 15 on assuring adequate capacity (discussed in a previous email from me).  The purpose of the paper is to outline possible EPSA positions on the issues.  EPSA could would like comments on the paper by Monday, June 4 (you could forward them to me and I will pass them on to EPSA).  In summary the paper presents 14 principals for assuring adequate capacity that I believe Enron could support.  Most of the principals discuss a liquid, efficient energy market and robust forward markets are capable of assuring adequate capacity; load needs to see prices and demand needs to respond; barriers to construction of new generation and entry for LSE's need to be eliminated; and any capacity market must be designed to create a level playing field between old and new market entrants.  The most controversial are #7 and #8.  
+ 
+ Number 7 states:
+ 
+ "During a limited transition to fully competitive markets, an administratively-determined mandatory reserve requirement can serve to ensure that adequate capacity is available to meet reliability needs within politically acceptable limits of price volatility.  A mandated reserve requirement should be tied to specific reliability criteria for that system, such as the one day in ten years loss of load probability."
+  
+ Number 8 states:
+ 
+ "Suppliers must be fully compensated for supplying needed reserves.  This can be accomplished through a well-designed Installed Capacity (ICAP) market, a separate capacity market, imbalance trading or call options."
+ 
+ ----- Forwarded by Tom Hoatson/NA/Enron on 05/30/2001 09:31 AM -----
+ 
+ 
+
+ 
+ 
+ MEMORANDUM
+ 
+ TO: Regulatory Affairs Committee
+        Power Marketers Working Group
+ 
+ FROM: Jim Steffes, Regulatory Affairs Committee Chair
+             Bob Reilley, Power Marketing Working Group Chair
+             Julie Simon, Vice President of Policy
+ 
+ DATE: May 29, 2001
+ 
+ RE: EPSA Draft Paper on Assuring Adequate Capacity in a
+       Competitive Market
+       ? Initial Comments Due on Monday, June 4th
+       ? Conference Call on Friday, June 8th at 11:00 a.m. (EDT)
+ 
+ On May 15th EPSA held a workshop on assuring adequate capacity in a restructured market.  Following the discussion, EPSA staff offered to draft a short White Paper outlining a possible EPSA position on the issues raised during the discussion.  Attached is the first draft of that paper.
+ 
+
+ 
+ 
+ Attachment
+ 
+  - EPSA POSITION STATEMENT ON ASSURING ADEQUATE CAPACITY IN A COMPETITIVE MARKET.doc << File: EPSA POSITION STATEMENT ON ASSURING ADEQUATE CAPACITY IN A COMPETITIVE MARKET.doc >> 

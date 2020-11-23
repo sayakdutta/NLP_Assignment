@@ -1,0 +1,16 @@
+
+ 
+ What is the question?
+ 
+ 
+     
+ 
+ ?????
+ 
+ 
+     
+ 
+ You can change the assumption on the assumptions page. The issue is that lindy didn't build in fuel retention in the average rate. I would think that you should. 
+ Hdt
+ --------------------------
+ Davis Thames

@@ -1,0 +1,47 @@
+
+
+
+
+ 
+
+Stacey,
+
+- ALBERTADIR is in the table: Peak = (20,162), Off-peak = (20,588)
+
+- Per your last email, I'll remove RETAILEAST and RETAILWEST.
+
+- For spreadsheets, we currently see the following:
+POWER-SS-R3B-PRC
+POWER-SS-R3C-PRC
+POWER-SS-R1B-PRC
+We'll take these from RiskTrac.
+
+- For SouthAmerica positions, we can also take from RiskTrac
+
+- The numbers for EAST and WEST are off because I ran the query at around 11AM. I didn't realize that Adhoc only holds the last calculated numbers, not as of a certain effective date. If we run the query everyday at 7AM, can we be sure we're capturing all of previous day's trading? And none of current day's?
+
+Thanks.
+-Tom
+ 
+
+I was incorrect about Alberta ENA, it should be zero but where is Alberta?  It should have a big position.
+
+Stacey
+
+ 
+
+
+Hi Stacey.
+
+We've generated the numbers below directly from EnPower/Adhoc (effective date 10/24). Just a couple of points I need to confirm before we can try to generate our DPR numbers from this query --
+
+1) where can we get the spreadsheet positions from?
+2) are these all the Enpower portfolios we should be picking up for Power?
+3) do the numbers for NA look correct? 
+4) I will be sending the numbers daily to the "contacts" listed -- any other names I should add?
+
+Thanks.
+- Tom
+
+
+ << OLE Object: Picture (Metafile) >> 

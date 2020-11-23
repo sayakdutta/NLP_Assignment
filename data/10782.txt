@@ -1,0 +1,42 @@
+
+ 
+ 	Tim and Mike, would it be appropriate to have Mike call Bill and get specifics from him?  Then
+ 	we can do a conference call to explain the cuts?  Just a suggestion.  Thanks. Lynn
+  
+    Cc:	Miller, Kent; Neville, Sue; Stevens, Bob; Blair, Lynn
+  
+ Tim,
+ I can't find a single date when LSP's  overrun injections were cut completely. The LSP - Whitewater FDD contract has had 27 days this injection season where, at the end of the gas day, overrun injections are scheduled. I have found an example where USES tried to increase their nomination during the gas day. However all the available capacity had been scheduled during an earlier process cycle. When this occurs, no incremental injections can be scheduled unless incremental capacity becomes available. Another problem is that at the end of most gas days USES utilizes storage netting to further complicate the analysis.
+ I really need more to go on. If USES can provide a date or dates it would help our analysis. 
+ 
+ 
+  
+    Cc:	Miller, Kent; Neville, Sue; Stevens, Bob; Bodnar, Michael
+  
+  << File: lspoverrun.xls >> Tim,
+ 
+ Please find attached a summary showing the injection overrun volumes LSP scheduled on their FDD contracts 23281 and 23282 during the injection months of June, July and August 2001.
+ 
+ Since the storage allocation is administered in Market Services, I have asked Mike Bodnar to look into specifics of the days allocated vs. LS Power's overrun volumes.  I did do one quick spot check of a day where we allocated storage through the Intraday 2 process, and I found that LSP did indeed schedule injection overrun quantities on that day.  Specifically, I looked at the gas day of September 1, 2001.  I note that LSP schedule 7,825 mmbtu on an MDQ of 3,008 on contract 23281, and they scheduled 5,945 mmbtu on an MDQ of 3,560 on contract 23282 on Sept 1st.  I'm not sure that it is accurate to say they are never getting any injection overrun on days we allocate storage.  I can tell you that I think the allocation process is working correctly, but I'll let Mike speak to these issues further.
+ 
+ Hope this helps!
+ 
+ Kay
+ 
+  
+    Cc:	Miller, Kent; Neville, Sue; Stevens, Bob
+  Importance:	High
+ 
+ 
+ 
+ Kay,
+ 
+ Bill Anderson from US Energy mentioned to Kent and I at the KC Operations meeting that his FDD injection overrun volumes are being cut completely when there is a storage allocation.  At first, I thought this was due to a discounted injection overrun rate being charged to LS Power/Cogentrix.  However, you confirmed yesterday that LS Power/Cogentrix is paying the full injection overrun rate, and therefore should get a pro-rata piece of the available capacity at the time of the allocation.  
+ 
+ I told Bill that we would look into our allocation process, and find out why LS Power/Cogentrix was being cut completely.  Could you let me know if you find anything incorrect in our allocation process with regards to the LS Power/Cogentrix account?  Perhaps LS Power/Cogentrix is entered into the allocation system incorrectly as a discounted rate?  
+ 
+ Please let me know what you find.  I would like to respond to Bill as soon as possible.
+ 
+ Thanks!!
+ 
+ Tim Johanson

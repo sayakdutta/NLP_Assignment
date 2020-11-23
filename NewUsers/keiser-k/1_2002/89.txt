@@ -1,0 +1,47 @@
+
+
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-X-X-X-bX-Folder: \ExMerge - Keiser, Kam\Sent Items
+X-Origin: KEISER-K
+X-FileName: kam keiser 7-11-02.PST
+
+That sounds good.
+
+KK
+
+
+
+Bill D.
+Cc: Keiser, Kam
+
+
+John,Kam,
+
+We can inactivate these books enmasse in risktrac to start with. The position capture jobs will flip them to active if a position comes in on it.
+Please just confirm this and we will make it inactive.
+
+Regards,
+Ramesh 
+
+
+
+
+FYI - The books are already created in Erms (Netco) and we don't have a field to activate or inactivate books.  Please advise the users not to use the inactive books.
+
+Thanks,
+Cecilia
+
+	 
+				Cc:	Keiser, Kam
+	
+	This may help.
+
+	 << File: Summary of Book Requests.xls >> 
+
+	 
+				Cc:	Keiser, Kam
+	
+	Attached you will find the new books that have been set up for UBS Energy.  There are some books that do not have a trader name attached.  These books will be inactive until a trader is assigned at a later date.  Please let me know if you have any questions.
+
+	John

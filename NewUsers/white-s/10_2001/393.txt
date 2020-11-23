@@ -1,0 +1,43 @@
+
+
+Thanks!
+
+ 
+
+Go ahead and decline. She is in San Fran but another guy I talked to said she wanted to pull prices from a database source. That is nothing to do with the M drive.
+
+John
+
+ 
+
+Can you or someone else ask her why she requested m:\common\power Read/Write?
+
+Stacey
+
+ 
+
+I know she is the fundamentals group here, but none of the folders in the path below would be used by her.
+
+John
+
+ 
+
+Why would this person need Read/Write to m:\common\power  I typically only grant access for Write capabilities to Risk.
+
+Stacey
+
+ 
+
+You have received this email because you are listed as a data approver. Please click http://itcapps.corp.enron.com/srrs/auth/emailLink.asp?ID=000000000069680&Page=Approval to review and act upon this request.
+
+
+
+
+Request ID          : 000000000069680
+Request Create Date : 10/19/01 3:30:04 PM
+
+Resource Name       : \\nahoutrd\houston\pwr\common\common\Power - [Read/Write]
+Resource Type       : Directory
+
+
+

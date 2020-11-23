@@ -1,0 +1,57 @@
+
+ 
+ Thanks for forwarding the note to me.  I have asked Shona and Brent to get back with me on answers to your questions.  Shona's team did move this weekend to ECS (as did I), and I am not sure how much additional chaos this has added to her life for today!  I will follow up with her mid -afternoon on details.  
+ 
+ I agree with you that this serves as a good case study  - underscores indeed that we need to start some of the projects under Project Greenlight instead of continuing to document problems.  By definition,  to arrive at complete and accurate transfer daily of information from all source systems to RisktRAC, we must know the universe of all books and spreadsheets.  --Sally 
+ 
+  
+     
+ 
+ Sally,
+ 
+ FYI.  This is an example of the issues associated with the risk feeds and the need to document the universe of books that should be sent to RisktRAC on a daily basis.  Both Todd and Shona are working to reconcile RisktRAC positions to the source liquids books, identify the omitted books and make corrections.  The total volume difference is 3.4 million barrels (not certain this is accurate, but material under any circumstance).  I am also not certain how long these positions have not been included.  I believe this issue it limited to VAR only, and that CreditAg has been reporting the credit exposures. 
+ 
+
+ 
+ Thanks,
+ Wanda
+  
+     
+ 
+ 
+ Regards
+ 
+ Bj?rn Hagelmann
+ Director
+ Rac - Market Risk Management
+
+ Office:  + 1 713 345 7984
+ Trade Floor: +1 713 345 0338
+ Mobil:   + 1 281 451 4156
+ 
+ 
+  
+    Cc:	Hagelmann, Bjorn; Victorio, Tom
+  
+ Bill, please see the attached list of books that you are officializing that is not coming into the RisktRAC.
+ 
+ Burton & Zakiyyah
+ 
+ 
+ 
+ 
+ 
+ UK-PL-BRENT	
+ UK-JV-ARB-GOIP	
+ UK-CRD-DUBAI	
+ UK-CRD-CLCM	
+ UK-CRD-BRCM	
+ UK-CD-CLCM	
+ UK-CD-BRCM	
+ UK-BENZ-FIN2	
+ SGP-RESID-BRNT	
+ PHYOIL2	
+ OIL-SPECII-C3	
+ OIL PRICE - CLCM	
+ OIL - BRCM	
+ BLND-BRENT	

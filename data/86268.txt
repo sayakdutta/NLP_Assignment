@@ -1,0 +1,47 @@
+
+ 
+ Louis, I, for now, have requested wholesale basis positions(price equivalent) be keep out of the price report. Further I have requested a seperate basis report that will show similiar information contained in the price report. I would like to look at basis correlations before including them in fixed price.
+ 
+  
+    Cc:	Parks, Joe; Chilkina, Elena
+  
+ David, we need the Oxy positions excluded and will also need the basis positions expressed as a Nymex equivalent number of contracts.
+ 
+  
+    Cc:	Dicarlo, Louis; Parks, Joe
+  
+ 
+ Attached please find an additional file which shows all the Nymex and basis positions for EES by region by forward month. These need to be evaluated carefully before being used as a basis for hedging due to the changing nature of our portfolios. Call me if you have any questions.
+ 
+  << File: EES Nymex & Basis Mar 21.xls >> 
+ 
+ 
+ 
+ 
+  
+    Cc:	Dicarlo, Louis; Parks, Joe; Chilkina, Elena; Hall, Bob M.; Semple, Robert; Miller, Don (Asset Mktg); Leff, Dan
+  
+ To all,
+ I have asked Louis DiCarlo and Joe Parks to contact you to arrange to meet today to review the positions in the wholesale and retail gas books.
+ 
+ Greg/Pat, please pull the current positions (like you have done before) but for each month from the live, ITM counterparties
+ 
+ Scott/Dave/Jess, please do same for the portion of the retail gas book that is designated for retention (not the OTM positions or positions that have or will be rejected and terminated).  If necessary, consider setting up a separate book for the OTM positions.  Also, if you are not currently doing so, please start marking all retail curves at the locations that we have positions.  
+ 
+ Please forward the position information to Louis, Joe and Elena Chilkina as soon as possible, but no later than 12:00 Noon today.  If you have issues, please let me know.  Otherwise, I want to meet with all of you at 4:00 PM today in ECN 4105 to review the positions and discuss issues.
+ 
+ Thanks,
+ Ed  
+ 
+   
+ 
+  
+    Cc:	McMichael Jr., Ed
+  
+ Jess, David, Sean & Team
+ 
+ I have asked Ed McMichael to spend some time with you in the next 1-2 days to get better acquainted with the retail gas business.
+ 
+ Thanks for your cooperation
+ 
+ Dan

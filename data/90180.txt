@@ -1,0 +1,66 @@
+
+ 
+ If they are all in the coal group and we get all of the coal curves and transport curves, then the answer is yes.
+ 
+  
+    Cc:	Allen, Diana; Kaniss, Jason
+  
+ 
+ Kevin,
+ 
+ Please let me know if all the following people should have access to the power curves.  Hopefully this should resolve any outstanding issues with the power information.
+ 
+ frank prejean - risk manger
+ matthew condon - risk analyst
+ jay yu - risk analyst
+ jay cho - risk analyst
+ jay vandenberg - risk analyst
+ chad pennix - coal trader
+ john massey - coal trader
+ kevin mcgowan - vp coal trading
+ 
+ 
+  
+    Cc:	Prejean, Frank; Condon, Matthew; Yu, Jay; Cho, Jae; Vandenberg, Jay; Pennix, Chad; Massey II, John; Mcgowan, Kevin; Jahnke, John
+  
+ Rika,
+ 
+ The following list of people have requested permissions to view our Power Forward curves.
+ 
+
+ 
+ Permissions needed:
+ Database:  tdsprod
+ Schema:  pds
+ Tables (Read only permissions)
+ 	Power_forward_prices
+ 	Regions
+ 
+ Thanks,
+ 
+ Diana
+ 
+  
+     
+ frank prejean - risk manger
+ matthew condon - risk analyst
+ jay yu - risk analyst
+ jay cho - risk analyst
+ jay vandenberg - risk analyst
+ chad pennix - coal trader
+ john massey - coal trader
+ kevin mcgowan - vp coal trading
+  
+  
+    Cc:	Imai, Rika
+  
+ Matt,
+ 
+ If your group does not yet have permissions for our power forward curves tables, I will email our DBA and make the request.
+ 
+ I need to know the names of the people that need permissions.  If you want IT development, than include your IT person as well.
+ 
+ Thanks,
+ 
+ Diana
+ X35356

@@ -1,0 +1,54 @@
+
+ 
+ the product number for pg&e topock is 47085.   the correct company name for transcanada is the division of transcanada.  thanks for your help.
+ 
+ matt
+ 
+  
+     
+ Matt,
+ 
+ I need the following information requested by the customer access group (see e-mail below). I also need to know if your current product numbers and when you want to transfer them over to the "Restricted" Product types.  Please let me know as soon as you can.
+ 
+ Thanks,
+ 
+ Melba
+ 58986
+ 
+  
+    Cc:	Lees, Lisa; Cass, Robert B.
+  
+ Melba,
+ 
+ I have made all of the changes with the exception of adding the following:
+ 
+ Aquila Risk Management Corp - Not approved for Physical trading
+ PG&E Core - Not EOL counterparty
+ TransCanada Gas Service - need clarification TransCanada Gas Services Inc. or TransCanada Gas Services, a division of TransCanada Energy Ltd.
+ 
+ Please let me know if you have any questions.  Would you like me to follow up with Matt on the TransCanada issue.
+ 
+ Thanks,
+ Stephanie
+ 
+  
+    Cc:	Lees, Lisa; Cass, Robert B.
+  
+ Stephanie,
+ 
+ I have compared the lists and this is what I found:
+ 
+  << File: Restricted Customer List.xls >> 
+ This is what you sent me.
+ 
+ 
+ 
+  << File: PG&E Topock Restricted list.xls >> 
+ This is Matt's list.
+ 
+ 
+ Let me know if I can help you at all with anything you need.  
+ 
+ Thank you,
+ 
+ Melba

@@ -1,0 +1,159 @@
+
+
+This sounds like an issue we should be coordinating with the East desk too.
+---------------------- Forwarded by Mary Hain/HOU/ECT on 02/20/2001 03:55 PM 
+---------------------------
+
+
+Steve Walton
+02/20/2001 10:04 AM
+
+Alan,
+ While an open season is useful, I am not sure we need to require it in all 
+instances.  If a developer of a generation project needs to build 
+transmission to get its energy to market, they should be allowed to build it 
+and get FTRs.  This presumes that the builder will have to negotiate the 
+obstacle course associated with construction (environmental, reliability, and 
+other siting approvals).  There are currently so many safeguards in place and 
+building is so difficult, that any requirement for open season may well be 
+generated when you try to use scarce right of way to build less than an 
+optimal line.  This is exactly the debate going on in this committee, so as 
+you say, the devil will reside at details.com.
+
+Steve
+
+
+
+	Alan Comnes
+	02/20/2001 09:33 AM
+		 
+		 		 		 
+Steve, Mary:
+
+Other than stating that the "devil is in the details," I am not sure I found 
+this that illuminating.
+
+Can I assume that we support giving whoever invests in transmission, any 
+identifiable capacity (via FTRs) created by the expansion?  I also assume any 
+expansion may need an open season type procedure to make sure the expansion 
+is broadly distributed to prevent monopoly power ....
+
+GAC
+---------------------- Forwarded by Alan Comnes/PDX/ECT on 02/20/2001 07:28 
+AM ---------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To Members of the RTO West Stage 2 Planning Content Group:
+
+Hello!
+
+Attached are some materials regarding market driven expansion that Phil
+Parks of BC Hydro provided for distribution.  I'll have hard copies of
+this material at tomorrow's small group meeting.  Our thanks to Phil for
+providing this information!
+
+Thanks!  Kristi
+
+X-NAV-TimeoutProtection0: X
+X-NAV-TimeoutProtection1: X
+X-NAV-TimeoutProtection2: X
+X-NAV-TimeoutProtection3: X
+X-NAV-TimeoutProtection4: X
+X-NAV-TimeoutProtection5: X
+X-NAV-TimeoutProtection6: X
+X-NAV-TimeoutProtection7: X
+Received: from bchnetgw.bchydro.bc.ca (bchnetgw.BCHydro.BC.CA [142.52.88.1]) 
+by emu.prod.itd.earthlink.net (8.9.3-EL_1_3/8.9.3) with ESMTP id NAA18080 for 
+
+
+id NAA23504; Thu, 15 Feb 2001 13:12:19 -0800 (PST)
+Received: from bchgate by bchnetgw via smap (V2.1) id sma1d022983; Thu, 15 
+Feb 01 13:11:29 -0800
+Received: by BCHydro.bc.ca (SMI-8.6/BCH-5.6.0) id NAA00969; Thu, 15 Feb 2001 
+13:11:28 -0800
+Received: from edmm41.bchydro.bc.ca by bchgate.bchydro.bc.ca via smap (V2.1) 
+id sma1d000546; Thu, 15 Feb 01 13:11:15 -0800
+Received: by edmm41.bchydro.bc.ca with Internet Mail Service (5.5.2448.0) id 
+<1YF8DDVD>; Thu, 15 Feb 2001 13:15:41 -0800
+
+
+
+
+
+
+
+
+
+
+
+
+
+boundary="----_=_NextPart_000_01C09794.731373B0"
+X-Mozilla-Status2: 00000000
+
+ <<nyseg_value_creation_pres_101000.pdf>>
+
+Attached is a presentation of the NYISO Working Group on "Principles of
+Market-Based Expansion Process".  It discusses the free rider problem of
+market based transmission expansion.  The section titled "The Devil is in
+the Details" describes a proposal for paying the transmission investor for
+the reinforcement - the transmission investor would receive one half of the
+difference in congestion charges between the with and without reinforcement
+cases.
+
+This proposal was developed last fall for the NYISO.  More discussions are
+planned to determine the feasibility of the proposal.  The contact I have is
+Bob Reed of New York State Electric and Gas Corporation, 607 762 7256,
+
+be found at
+http://www.nyiso.com/services/documents/groups/mc_rto_wg/meeting_materials.h
+tml
+
+ - nyseg_value_creation_pres_101000.pdf
+
+
+
+

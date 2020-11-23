@@ -1,0 +1,53 @@
+
+
+---------------------- Forwarded by Robin Rodrigue/HOU/ECT on 11/03/2000 
+02:13 PM ---------------------------
+   
+	Enron North America Corp.
+	
+		
+
+
+
+---------------------- Forwarded by Frank Hayden/Corp/Enron on 11/03/2000 
+08:54 AM ---------------------------
+   
+	
+	
+		
+
+
+
+
+---------------------- Forwarded by Frank Hayden/Corp/Enron on 08/26/2000 
+03:55 PM ---------------------------
+
+
+
+08/26/2000 03:13 PM
+
+
+
+Frank,
+Please find enclosed the PL/SQL scripts that are called from the two C 
+programs below. The ERMS packages handle all of ERMS positions, with specific 
+handling of Canadian and Intra month positions. The power package handles all 
+of ENPOWER databases(Australia, Europe and US) and EXPOWER(US only). The 
+spreadsheet handling is an entirely different process which specifically 
+handles text files extracted from spreadsheets.
+
+The 'C' programs control the calls to the PL/SQL packages. The ERMS package 
+also decides on the strip flag for intra month positions.
+
+Regards,
+Ramesh
+
+
+
+
+
+ 
+
+
+
+

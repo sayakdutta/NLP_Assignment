@@ -1,0 +1,101 @@
+
+ 
+ 	Mike, did any one ever answer Reyna?  Thanks. Lynn
+ 
+  
+    Cc:	Blair, Lynn; Bodnar, Michael; Buchanan, John; Kowalke, Terry; Black, Legale ; January, Steve
+  
+ Well, it's Mid October and I am checking on the status of the SBA Priority during Allocations.  The new contracts are due to take effect November 1, 2001, and with cold weather already on the horizon we could be headed for the same types of problems we had last  winter.
+ 
+ Do you have an estimated time of implementation?  Let me know if there is anything else I can do to help.
+ 
+ Thank you for your help.
+ Reyna
+ 
+  
+     
+ Thank you Gerry...I'll email you again in Mid October.
+ 
+  
+    Cc:	Blair, Lynn; Bodnar, Michael; Buchanan, John; Kowalke, Terry; Black, Legale ; January, Steven
+  
+ I have worked up the requirements and the TMS IT group is evaluating the changes.  Due to the CMS implementation we would not be able to implement this change.  The earliest we might be able to implement is Mid to late October.  If you have any questions please call.  Thank you.
+ 
+  
+    Cc:	Blair, Lynn; Bodnar, Michael; Buchanan, John; Kowalke, Terry; Medeles, Gerry; Black, Legale ; January, Steven
+  
+ Gerry/Legale,
+ 
+ Would you be able to update us on the status of the SBA priority during Allocations?  September 1st has rolled around really fast.
+ 
+ Thanks,
+ Reyna
+ 
+  
+    Cc:	Blair, Lynn; Bodnar, Michael; Buchanan, John; Kowalke, Terry; Medeles, Gerry; Black, Legale ; January, Steven
+  
+ Reyna,  this is to confirm that the SBA-TI's should be scheduled after primary but before all other nominations.  sjk
+ 
+  
+    Cc:	Blair, Lynn; Bodnar, Michael; Buchanan, John; Kowalke, Terry; Medeles, Gerry; Black, Legale ; January, Steven
+  
+ Steve,
+ Back in June we discussed the issue of the SBAs' priority during an Allocation.  The Business Development group and Contracts are in the process of making the necessary changes so that CMS can distinguish ITs associated with SBA activity from other IT agreements and are second through the meter after Primary during allocations.  For your information, below are the comments from the various people involved in this issue
+ 
+ Please let us know if you have any further concerns regarding this issue.  Thanks for your continued help in this matter.
+ 
+ Reyna Cabrera
+ X33072
+ 
+ 
+  
+    Cc:	Buchanan, John; Kowalke, Terry; Medeles, Gerry; Cabrera, Reyna; January, Steven
+  
+ 
+ I believe Reyna, et al, have held discussions with the Reg Types and received the green light to go forward, but I will confirm. 
+ 
+ Regarding (2.), With the new contract system being developed, the monitoring of contract provisions via the system should be do-able. I am sure both CMS and TMS will be involved in the effort.
+ 
+  
+    Cc:	Buchanan, John; Kowalke, Terry; Medeles, Gerry; Cabrera, Reyna; January, Steven
+  
+ 	Mike, thanks for the update.  I have a couple of questions/comments:
+ 
+ 	1.  Is Legal and Regulatory in the loop on these decisions?
+ 
+ 	2.  Anything we can automate, I would like to ensure we have the automation on the enhancement
+ 	     list.  I like the idea of automating the last bullet.  I am not sure if it is in CMS or elsewhere, but
+ 	     I would like to be sure we pursue this automation.
+ 	Thanks. Lynn
+ 
+  
+    Cc:	Buchanan, John; Kowalke, Terry; Medeles, Gerry; Cabrera, Reyna
+  
+ Lynn,
+ Below is a list of issues that were raised at the meeting held w/ Gerry and Reyna (attended by John and I) ......As far as I know, we haven't yet heard back from Sue regarding the issues raised.
+ 
+ ....Immediately below is LT's response to adding a "hook" in CMS that would distinguish ITs associated with SBA activity from other IT agreements....
+ 
+ More as it develops! 
+ 
+  
+     
+ I don't have a problem adding a subtype on the IT's of SBA.  I'm not sure I understand your last bullet. Can you give me more info.
+ 
+ LT
+ 
+  
+    Cc:	Threet, Kay; Bodnar, Michael; Trevino, Linda
+  
+ Sue, 
+ During the meeting today with Gerry to discuss the SBA priority during allocations, some of the following issues came up:  (Gerry, correct me if I misunderstood anything)
+ 
+ If we ever call an SBA to bring in gas after the timely cycle, do we still want them to have priority over Alternate and Interruptible? (my opinion is no, they should only have this priority during the timely cycle).
+ If the SBAs bring in gas at a secondary point, do we still want them to have priority over Alternate and Interruptible?  (my opinion is no, they should only have this priority at Primary Points).
+ Are we aware that an Alternate shipper who has flowing rights from the previous day might get "squeezed" out of the same entitlement on a day that an SBA shipper is given priority over Alternate?  Might have some mad shippers.
+ How will SBA volumes be posted on the EBB if there is an allocation: Interruptible???
+ Because the current methodology for allocation is based on a "point", they don't follow the downstream, will the IT contracts currently being used have to be identified through the contracts department as "SBA IT"?
+ This is for the future contracts system:  Should we ask that the new contract system to automate all the manual processes of the SBAs such as account balance and carryover days in order for the system to be able to validate this criteria?
+ 
+ Reyna Cabrera
+ (713) 853-3072

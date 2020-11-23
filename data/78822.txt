@@ -1,0 +1,74 @@
+
+ 
+ You got the wrong guy.
+ 
+ Thomas Martin
+ 
+  
+    Cc:	Martin, Thomas A.
+  Importance:	High
+ 
+ Looks good, thanks.
+ 
+ 
+ Thanks,
+             Sean
+ 
+  
+    Cc:	Martin, Thomas A.
+  
+ Sean,
+ 	Here is the new list of Teeside Exchange servers.  Please do a sanity check on it.  It appears that it is all okay.
+ 
+ Location	Server		Storage Group	Database		Number of Users
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A01		2
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A02		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A03		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A04		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A01		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A02		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A03		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A04		1
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A05		1
+ 
+ thanks,
+ 
+ Joe Hall
+ 
+  
+     Importance:	High
+ 
+ Martin is correct please see below for correct version
+ 
+ 
+ Thanks,
+             Sean
+ 
+  
+     
+ Sean - the database names on SG02 look wrong mate???
+ 
+  
+    Cc:	Thomas, Martin
+  Importance:	High
+ 
+ Hi,
+ 	Please find enclosed the details of the new Exchange server in Europe based at ETOL (Teeside), in the UK.
+ 
+ 
+ Location	Server		Storage Group	Database		Enabled
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A01	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A02	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A03	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG01A		PrivMBX01SG01A04	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A01	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A02	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A03	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A04	true
+ Teeside	EUTEE-MSMBX01V	MBX01SG02A		PrivMBX01SG02A05	true
+ 
+ 						Please add these to Netops for account creation purposes. Thanks
+ 
+ 
+ Thanks,
+             Sean

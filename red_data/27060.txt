@@ -1,0 +1,32 @@
+
+ 
+ Any luck with the changes we have requested?
+ JMF
+ 
+  
+     
+ John:
+ 
+ 	We are looking at this for you.  I will contact you tomorrow for any further required information.
+ 
+ Regards,
+ Bill x53492
+ 
+  
+     
+ 
+ 
+  
+    Cc:	Day, Smith L.; Dahlke, Andrea
+  
+ 
+ 
+ Duong,
+ 
+ Can I get a change in Enpower?   We have done this type thing on the West desk:
+ 
+ For every counterparty "Ercot Imbalance" ,   I would like the Risk Mark to market flag set to "off"  automatically.     When this manual process does not get done,  we have settlement problems.
+ 
+ What do you think?
+ 
+ JForney

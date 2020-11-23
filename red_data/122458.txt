@@ -1,0 +1,79 @@
+
+ 
+ Richard, 
+ 
+ Please make sure that Paul see's the invoice.  After Paul approves it, I can sign it too.
+ 
+ Thanks, Kim.
+ 
+  
+     
+ 
+ To all
+ 
+ Amy Mulligan and I will discuss payment procedures and Debbie Moseley and I will discuss coding.
+ However, before a payment or coding changes or etc are done,  I would like to have someone preapprove payments that TW will be sending to ENA.   
+ 
+ 
+ 
+  
+    Cc:	Mulligan, Amy; Lokay, Michelle; Y'barbo, Paul; Dietz, Rick
+  Importance:	High
+ 
+ Richard,
+ 
+ What process needs to be followed in order to request a payment to be made to ENA per the terms of the agreement negotiated with Marketing when capacity is released on their behalf?  Please let everyone in the distribution know so they can follow these same procedures for next month as well.
+ 
+ Additionally, do we code the marketing fee revenues to a different account from the transportation revenues and how?
+ 
+ 
+ Thanks,
+ Elizabeth
+ 
+  
+    Cc:	Lokay, Michelle
+  Importance:	High
+ 
+ FYI - When January 2002 invoices are run, please be advised that a manual adjustment will need to occur on ENA's contract 24924.  The deal was structured whereby TW would receive a marketing fee equal to 50% of the rate negotiated in excess of the original contracted rate between ENA and TW; the other 50% goes to ENA.
+ 
+ Here's the basics:
+ ENA's contract with TW is at a daily rate of $0.0600 (one-part)
+ The release to Burlington is at a daily rate of $0.0650 (demand only plus applicable commodity and fuel based on usage)
+ TW will bill Burlington through normal course of business (reservation of $34,125 [$0.0650 x 25,000 x 21days] plus applicable commodity fees)
+ ENA demand invoice will need to be adjusted so that they only receive a capacity release credit of $32,812.50  [($0.0650 - $0.0025) x 25,000 x 21days]
+ TW will need to book marketing fee revenues of $1,312.50 [$0.0025 x 25,000 x 21 days]  (Richard - do we need/have a separate account for these revenues??)
+ 
+ Michelle - I know you indicated that ENA is looking to get a payment of $1,312.50 for their portion of the incremental fee charged.  However, we will need to discuss further.  The invoice that will be generated to ENA will not represent a credit due them since we would still be billing them for the first 11 days prior to this release.  
+ 
+ We can discuss further when the billing cycle approaches.  If you have any questions, please let me know.
+ 
+ Elizabeth
+ 
+ 
+ 
+ 
+  
+    Cc:	Dietz, Rick; Lee, Dennis; Eldridge, Dale; Williams, John
+  
+ As promised, please find the attached TW Capacity Release Report which has been revised to include a release from ENA to Burlington effective 1/11/02 - 1/31/02.  Let me know if you have any questions.
+ 
+  << File: TW0102P.XLS >> 
+ 
+ Thanks,
+ Elizabeth
+ 
+ 
+  
+    Cc:	Dietz, Rick; Lee, Dennis; Eldridge, Dale; Williams, John
+  
+ Attached is the Transwestern Capacity Release Report that lists all capacity release transactions for the period effective 1/1/2002.  All transactions were awarded at 100% of the applicable maximum tariff rates.  
+ 
+ I have also been advised by Marketing that another posting may occur for January 2001 (partial month) but nothing has been finalized.  I will send an updated file if necessary.
+   
+ If you have any questions, please feel free to contact me.
+ 
+  << File: TW0102P.XLS >> 
+ 
+ 
+ Thanks,
+ Elizabeth

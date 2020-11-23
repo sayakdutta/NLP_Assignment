@@ -1,0 +1,49 @@
+
+
+
+  Stacy  is working with Constellation on a Master / GISB 
+
+ 
+Cc:	Vanek, Darren; Dickson, Stacy E.; Perlingiere, Debra; Rodriguez, Bernice; Anderson, Bridgette; Campos, Anthony; Elledge, Susan; Gonzales, Sharon; Bryan, Linda S.
+Importance:	High
+
+Cheryl,
+
+I have reviewed the current contracts and deals in place with Constellation Energy Source, Inc. (CP ID 55358) and found that we have deals extending through 08/31/01.  However, the only current deals are with ICC Energy Corporation (an alternate payee under our contract with Constellation Energy Source, Inc. ).  There are NO current deals with Constellation Energy Source, Inc. at this time.
+
+We currently have two master contracts in place as well as two spot GTCs.  I imagine that we will need to terminate all these agreements, but Legal is unaware of any changes with this counterparty.  Darren, can you please provide Stacy Dickson with the name of your contact at Constellation?  
+
+We also do not have ANY master agreements in place with Constellation Power Source, Inc. - all business (telephonic and EOL) is being covered under GTCs.  Stacy or Debra, do we have any negotiations in place for a master under this name?  Darren, can you work with Stacy on this?
+
+Please let me know if we need to terminate or trade suspend the Constellation Energy Source, Inc. agreements.
+
+Thanks,
+SBR x30569
+
+ 
+Cc:	Rodriguez, Bernice; Perlingiere, Debra; Anderson, Bridgette; Dickson, Stacy E.; Nemec, Gerald; Hernandez, Elizabeth L.
+Importance:	High
+
+Cheryl,
+
+Please do not suspend this CP until my group can review the current contracts in place and any deals that may have been covered by those contracts.  Bridgette Anderson will be looking at this once trading slows tomorrow.  We'll discuss it and get back with you tomorrow afternoon.
+
+Has anyone in Legal heard anything on this?  
+
+Thanks,
+SBR x30569
+
+ 
+Cc:	Rodriguez, Bernice
+
+Hi Stacey,
+
+Got a request from Darren in Credit, to change the status of the subject CP to non-trading.  When I made the change, I got the edit that indicates that 8 contracts are still active on the record, and the maintenance group is HOUGAS.  Per Darren, all trades should be under CP ID 55134, i/no/ Constellation Power Source, Inc.  I just want to make sure those can be moved if the record is in a non-trading status.
+
+This is also flagged for EES, should that link and retail flag be added to the Constellation Power Source record, even though it is not known to be one of EES's customers at this time, or at least it hasn't been flagged as such at this time?  I also went in to make that change, but since you are working on those contracts, I wanted to run it by you first.  
+
+
+Cheryl Johnson
+Enron Net Works
+Global Data Management
+713.853.3103

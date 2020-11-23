@@ -1,0 +1,29 @@
+
+
+That sounds fine.
+
+ 
+
+Your thoughts?
+Frank
+
+ 
+Cc:	Khanna, Bharat
+
+
+Frank,
+
+For all gas basis curves, if it does not have its own vol, then NG Nymex Vol will be used.
+
+Regards,
+
+Winston
+
+
+ 
+Cc:	Khanna, Bharat
+
+Winston,
+Bharat meet with Francis Lim regarding ERMS and he learned that NGI-MALIN does not have any vol curve assigned to it.  However when we simulate that curve in ad hoc we don't get any errors.  Can you tell us what vol curve is being used for NGI-Malin in risk trac?
+Thanks
+Frank

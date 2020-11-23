@@ -1,0 +1,34 @@
+
+ 
+ Let's discuss this afternoon.
+ 
+ Jim
+ 
+  
+     
+ I just talked with Kenneth Kohut and Bob Zarik of FERC (with Scott Miller's group).  They want to track Enron's EnronOnline pricing for these PHYSICAL products:
+ 
+ Gas
+ -Transco Zone 6 NY
+ -Henry Hub
+ -Chicago City Gate 
+ -Malin
+ -El Paso Non-bondad
+ -Permian Basin
+ 
+ Power
+ -Palo Verde 
+ -COB
+ -Mid C
+ -Cinergy
+ -PJM West
+ 
+ They would like us to tell them the best physical product to follow in gas (ie, gas daily, etc.) and want something that has Dec 01 pricing.  They also want EnronOnline end of day bid prices historically since August 01.  They then want to follow the pricing on EnronOnline themselves.
+ 
+ They already have access to most of this data through EnronOnline; however, the EnronOnline help desk told them that EnronOnline itself does not have historical data.  
+ 
+ I'll check with gas guys and see if we can get the data and report back to you.
+ 
+  
+     
+ http://cbs.marketwatch.com/tools/quotes/newsarticle.asp?siteid=mktw&sid=1803&guid=%7B3A6675C1%2DBE6A%2D4AB5%2DB63A%2D29DAB6E99295%7D

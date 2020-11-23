@@ -1,0 +1,139 @@
+
+ 
+ Mime-Version: 1.0
+  Content-Transfer-Encoding: 7bit
+ B X- X- X- X-b X-Folder: \ExMerge - White, Stacey W.\Sent Items
+ X-Origin: WHITE-S
+ X-FileName: stacy white 7-15-02.PST
+ 
+ What is she talking about?
+ 
+ Stacey
+ 
+  
+     
+ Hi Stacey and Jeff:
+ 
+ We were advised by Shona, Susan, and Chris that we should get the netco book codes from you.  If you can help us on this, please refer to the attached book request.
+ 
+  
+ 
+ Thanks for your help,
+ 
+ Fran
+ 
+  
+     
+ talk to jeff/stacey about this.  they are responsible for netco stuff
+ 
+  
+     
+ Shona and Chris:
+ 
+ From Susan's voice mail I learned she is out of office today.  Would you please help us get the book codes we need for west netco TAGG books (* please see attachment for book request)?  IT is requesting the codes so they can set the books up.
+ 
+ Thanks and please call me if you have any questions.
+ 
+ Regards,
+ Fran
+ 503.464.7973
+ 
+  
+    Cc:	Cheung, Cecilia
+  
+ Susan:
+ 
+ Would you please provide Cecilia the codes for the netco TAGG books?
+ Thank you.
+ 
+  << File: new BOOK REQUEST TAGG.xls >> 
+ 
+ Cecilia:
+ I have filled in the commodity/UOM/Curr in the form; sorry we missed that.  Also, yes NYMEX should be all our TAGG books.
+ 
+ Please let me know if you have any questions.
+ 
+ Thanks,
+ 
+ Fran Chang
+ 503.464.7973
+ 
+ 
+ 
+ 
+  
+    Cc:	Lim, Francis S.; Wong, Jeremy; White, Stacey W.; Postlethwaite, John; Evans, Casey
+  
+ Fran,
+ 
+ For the new Tagg book request, please provide the book codes (you can check with Susan Trevino) and the commodity/UOM/Curr (NG/MMBTU/USD?).  Also please confirm whether the same region code (NYMEX) should be used for all books or not.
+ 
+ Thanks,
+ Cecilia
+  
+  
+    Cc:	Lim, Francis S.; Wong, Jeremy; White, Stacey W.; Postlethwaite, John; Evans, Casey
+  
+ Cecilia:
+ 
+ I believe John has sent out the associated book requests for west desk on 1/10 or 1/11.  Are west netco books also set up and ready to go as well?
+ 
+ For your convenient reference, I am attaching the west book requests again.
+  << File: New Book Request EnPower.xls >>  << File: new BOOK REQUEST TAGG.xls >> 
+ 
+ Please let me know if I can provide anything else.
+ 
+ Thanks,
+ Fran Chang
+ 503.464.7973
+ 
+ 
+ 
+  
+    Cc:	Lim, Francis S.; Wong, Jeremy
+  
+ FYI - The following new PowerGas books have been set up (see attached for details...)
+ 
+ 
+ PWR-GAS-MGMT	
+ PWR-GAS-OPTION	
+ PWR-GAS-NE	
+ PWR-GAS-MW	
+ PWR-GAS-SE	
+ PWR-GAS-ERCOT	
+ 
+ Cecilia
+ x53362
+ 
+ 
+  
+     
+ Cecilia,
+ 	according to Jeremy we also need to inform Portland
+ 	and Stacy White for the power risk book request. 
+ 
+  
+    Cc:	Wei, Zhiyong
+  
+ Please check with the Power Risk group as to their book requests for NetCo. - Houston (Stacy White) and Portland - thanks.
+ 
+ 
+ 
+  
+     
+ Cecilia,
+ 
+ Attached are the book requests associated with Netco East Power.  Just wanted to keep you in the loop!
+ 
+ Thanks!
+ Casey
+ 
+  
+    Cc:	Keiser, Kam; Evans, Casey
+  
+ Please see attached book requests and send back the global ID's once completed.  Thank you.
+ 
+  << File: New Book Request TAGG PowerGas.xls >>  << File: New Book Request EnPower.xls >> 
+ 
+ 
+ John

@@ -1,0 +1,52 @@
+
+ 
+ 
+ 
+    
+ 
+ 	   		
+ 
+ 
+    
+ HHV is not the proper terminology, Gross Heat of Combustion is. The following is for Light diesel. First number is min, second is max. Jet fuel should be in the same ballpark as Light Diesel. Gross Heat of Combustion is about 6.4% higher than Net Heat of Combustion (incorrectly referred to as LHV), so divide the Gross numbers by 1.064 to obtain Net numbers. 
+ 
+ Gross Heat of Combustion, Kcal/Kg	D-240 or D-4868	10,820	10,966	
+ Gross Heat of Combustion, BTU/Lbs	D-240 or D-4868	19,520	19,780	
+ 
+ Marc
+ 
+ 
+    
+ 
+ 	   		
+ 
+ 
+    
+ Could you forward this info to Charlie? Copy me.
+ 
+    
+ 
+ 	Enron North America Corp.   		
+ 
+ 
+    
+ Doug,
+ 
+ Thanks for the info.  I have passed it along.
+ 
+ I have one more question regarding heating values.  Do you know what the LHV and HHV values are for #2 and jet fuel?  I figure those are parameters that are measured and known but they weren't on the spec sheet.  
+ 
+ 
+ Thanks,
+ 
+ Charlie
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Embedded StdOleLink>
+ <Embedded StdOleLink>

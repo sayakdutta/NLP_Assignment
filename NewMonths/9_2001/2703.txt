@@ -1,0 +1,29 @@
+
+
+
+
+ 
+Cc:	Shanbhogue, Vasant; Kaminski, Vince J
+
+Ron:
+
+I added to your spreadsheet the valuation of the combined Peregrine and Shortfall restrictions using an approach that Vassant and I discussed yesterday. 
+It assumes: 
+	1) Below $50.00 Shortfall will have restrictions on the whole number of shares (18MM shares); 
+	2) Above $76.00 Peregrine will be fully rstricted.
+	3) Between $50.00 and $76.00 Peregrine will bear a restriction proportional to (S-50)/(76-50) on 18MM shares and 
+	   the Shorfall takes the restriction on the remaining shares.
+Let's fix some time today to discuss the approach and results.
+
+ 
+
+Thanks
+Paulo Issler 
+
+ 
+
+Paulo,
+Attached is the option valuation model that I put together.  Also, the high end number for the Peregrine/Shortfall forwards range is actually $75.89, rather than the $76 which I gave you.  Thanks again for the assistance.
+Ron
+
+ << File: Put Option Valuations.xls >>  
